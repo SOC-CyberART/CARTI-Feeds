@@ -1,4 +1,5 @@
 # Списки индикаторов компрометации из фидов CyberART Threat Intelligence
+![Static Badge](https://img.shields.io/badge/Update_frequency-Daily-green?style=flat&logoSize=1000&color=%2312c98c)
 
 В файлах репозитория публикуется актуальная информация об индикаторах компрометации, замеченных во вредоносной активности, которые были обработаны платформой CyberART Threat Intelligence. Данный перечень индикаторов компрометации рекомендуется к мониторингу или блокировке. 
 
