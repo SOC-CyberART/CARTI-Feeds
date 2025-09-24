@@ -1,101 +1,101 @@
 ioctype;ioc;first_seen;last_seen;tags;CyberArt_score
-domain;cstest.mucfc.store;2025-09-23 02:05:56;2025-09-23 02:05:56;'C2','cobaltstrike';65
-domain;search.2y3rn846.com;2025-09-15 02:03:43;2025-09-23 00:01:17;'C2','cobaltstrike';67
-domain;ns1.jszwfw.com.cn;2025-09-22 20:02:07;2025-09-22 20:02:07;'C2','cobaltstrike';63
-domain;verificatisubito.it;2025-09-22 20:02:07;2025-09-22 20:02:07;'phishing','Subito','CyberSecurity','InfoSharing','ThreatIntelligence';49
-domain;ns1.duoo.cc;2025-09-22 20:02:07;2025-09-22 20:02:07;'C2','cobaltstrike';63
-domain;communitydesign.co.jp;2025-09-22 14:02:59;2025-09-22 14:02:59;'phishing','Aruba','CyberSecurity','InfoSharing','ThreatIntelligence';49
-domain;bpm.w0rkz.com;2025-09-21 02:02:58;2025-09-21 02:02:58;'C2','cobaltstrike';80
-domain;xxcaocs.556688.eu.org;2025-09-20 14:03:26;2025-09-20 14:03:26;'C2','cobaltstrike';59
-domain;cb2373.cdn.91fangyu.com;2025-09-20 00:01:29;2025-09-20 00:01:29;'';44
-domain;aliyunupdate.shop;2025-09-12 14:06:25;2025-09-20 00:01:29;'C2','cobaltstrike';47
-domain;smbc-card708.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';89
-domain;smbc-card178.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';89
-domain;smbc-card513.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';62
-domain;smbc-card139.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';89
-domain;smbc-card959.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';89
-domain;smbc-card117.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';62
-domain;smbc-card778.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';89
-domain;unicredit-antiriciclaggio.com;2025-09-19 14:05:24;2025-09-19 14:05:24;'phishing','UNKNOWN','CyberSecurity','InfoSharing','ThreatIntelligence';89
-domain;smbc-card597.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';89
-domain;cpcalendars.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';52
-domain;cpanel.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';52
-domain;mail.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';52
-domain;webdisk.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';52
-domain;qinformer.ru;2025-09-18 14:16:31;2025-09-18 14:16:31;'';43
-domain;smbc-card868.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;smbc-card329.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;smbc-card306.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';60
-domain;my-jcb-co.l3ubj6.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';43
-domain;houjin-jebnko01.com;2025-09-18 14:05:34;2025-09-18 14:05:34;'';43
-domain;my-jcb-co.1zyrgw.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;smbc-card388.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;my-jcb-co.7hcp2li2.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;e-t-c-meisai3.98biy.cyou;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;smbc-card552.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-domain;my-jcb-co.ber7u2.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';86
-sha256;69b859db7397a04bb1f1c2ff9d987686b5ce0c64ec8fc716c783ed6dd755e291;2025-09-22 20:02:07;2025-09-22 20:02:07;'';58
-sha256;88e9c1f5026834ebcdaed98f56d52b5f23547ac2c03aa43c5e50e7d8e1b82b3a;2025-09-22 08:01:40;2025-09-22 08:01:40;'';58
-sha256;fc3e2d3e23e3f410b9a7c0eaff3ed7bdde7b0bb49d737494cc4cfad3ff0f4e69;2025-09-22 08:01:40;2025-09-22 08:01:40;'';58
-sha256;8e6e3c15005c4e71f5e104331b23ea084cf69f6bab9f03e9f9e2602d938a0514;2025-09-18 14:16:31;2025-09-18 14:16:31;'';52
-sha256;d9b231ceb87b7fe3777c7a6d7f22b3cce231165b9d47563065f6fd22083d5df5;2025-09-17 16:42:49;2025-09-17 16:42:49;'';42
-sha256;6f4d80ef8bb29c86e7be9854bced20369ce4db9e3edcedaa8231b4bcd3eb3bc4;2025-09-16 20:07:23;2025-09-16 20:07:23;'';41
-sha256;ab192b68258b2f053a1620aadc74246fbc1a50fcfe536992f1ebfc39281391b0;2025-09-16 15:00:00;2025-09-16 15:00:00;'WORM';65
-sha256;3b6b2c0b59c94badb8bb32b3a5279c2dffc8861392a15424b47ae1851ca094bd;2025-09-16 15:00:00;2025-09-16 15:00:00;'WORM';65
-sha256;8597f9f89eca7eb4db32d0f64e6dfcf83e5eb0303b8f6fd9faded248dfb1b842;2025-09-16 15:00:00;2025-09-16 15:00:00;'WORM';65
-sha256;02fabbde5fd47846ea2b0eba0fe0cc71a6eda6f33c3bff3c6db6e6a083f43b24;2025-09-16 15:00:00;2025-09-16 15:00:00;'WORM';65
-sha256;43b2fee4fbe5b4a83ae32589d11c3f45ad1988dd5357f790ec708fdfd6709a98;2025-09-16 15:00:00;2025-09-16 15:00:00;'WORM';65
-sha256;078bdf9b8fbcd12418a978bdbf30b191794f354873d28ca85d753fee2ff1af5b;2025-09-16 08:03:33;2025-09-16 08:03:33;'';41
-sha256;45e50aaff3991801924650d05d84750ae94f0900c6238eaed4fc79fd2fb9cdc3;2025-09-16 02:03:09;2025-09-16 02:03:09;'';41
-url;https://jpja-theviewb00.09.com/ja/client/3210000;2025-09-23 08:01:54;2025-09-23 08:01:54;'フィッシングメール','フィッシングサイト','Phishing','フィッシング詐欺';40
-url;http://45.59.124.82:443;2025-09-23 08:01:54;2025-09-23 08:01:54;'c2','Havoc','unverified';40
-url;http://195.74.233.114:995;2025-09-23 08:01:54;2025-09-23 08:01:54;'c2','Qakbot','unverified';60
-url;http://217.154.212.25:8443;2025-09-23 02:05:56;2025-09-23 02:05:56;'C2','cobaltstrike';40
-url;http://202.55.74.98:31337;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';40
-url;http://104.194.143.193:443;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';50
-url;http://103.241.67.251:7443;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Mythic','unverified';50
-url;http://185.233.166.28:31337;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';40
-url;http://23.95.193.221:31337;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';40
-url;http://5.129.253.196:8888;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';40
-url;http://159.75.211.248:53;2025-09-23 02:05:56;2025-09-23 02:05:56;'C2','cobaltstrike';50
-url;http://114.132.245.97/api/3;2025-09-23 00:01:17;2025-09-23 00:01:17;'C2','cobaltstrike';58
-url;http://121.40.69.150:53;2025-09-22 20:02:07;2025-09-22 20:02:07;'C2','cobaltstrike';58
-url;http://communitydesign.co.jp/bm/aruba/aruba/de/indexo.php;2025-09-22 14:02:59;2025-09-22 14:02:59;'phishing','Aruba','CyberSecurity','InfoSharing','ThreatIntelligence';58
-url;http://115.120.247.133:7443;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Mythic','unverified';49
-url;http://104.140.154.80:30158;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Deimos','unverified';49
-url;http://104.140.154.35:30188;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Deimos','unverified';49
-url;http://208.113.131.209:3333;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Evilginx','EvilGoPhish','unverified';49
-url;http://104.140.154.172:30095;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Deimos','unverified';49
-url;http://165.22.119.30:4321;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','AdaptixC2','unverified';49
-url;http://222.255.214.236:31337;2025-09-21 08:00:56;2025-09-21 08:00:56;'c2','Sliver','unverified';57
-url;http://143.92.35.20:3230;2025-09-21 02:02:58;2025-09-21 02:02:58;'c2','Supershell','unverified';47
-url;http://113.45.30.33:4433;2025-09-21 02:02:58;2025-09-21 02:02:58;'C2','cobaltstrike';47
-url;http://107.174.34.142:14649;2025-09-21 02:02:58;2025-09-21 02:02:58;'c2','Remcos','unverified';57
-url;http://116.205.106.137:9998;2025-09-20 14:03:26;2025-09-20 14:03:26;'C2','cobaltstrike';55
-url;http://150.107.38.147:31337;2025-09-20 02:03:26;2025-09-20 02:03:26;'c2','Sliver','unverified';46
-url;http://143.198.16.180:31337;2025-09-20 02:03:26;2025-09-20 02:03:26;'c2','Sliver','unverified';46
-url;http://www.aliyunupdate.shop;2025-09-20 00:01:29;2025-09-20 00:01:29;'C2','cobaltstrike';44
-url;http://www.unicredit-antiriciclaggio.com;2025-09-19 14:05:24;2025-09-19 14:05:24;'phishing','UNKNOWN','CyberSecurity','InfoSharing','ThreatIntelligence';53
-url;http://47.117.174.198:8080;2025-09-19 14:05:24;2025-09-19 14:05:24;'C2','cobaltstrike';53
-url;http://118.193.38.154:443;2025-09-19 14:05:24;2025-09-19 14:05:24;'C2','cobaltstrike';44
-url;http://172.245.209.196:2404;2025-09-19 02:03:08;2025-09-19 02:03:08;'c2','Remcos','unverified';44
-url;https://smbc-card868.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';52
-url;https://smbc-card306.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';52
-url;https://smbc-card717.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';52
-ip;45.59.124.82;2025-09-23 08:01:54;2025-09-23 08:01:54;'c2','Havoc','unverified';50
-ip;195.74.233.114;2025-09-23 08:01:54;2025-09-23 08:01:54;'c2','Qakbot','unverified';100
-ip;177.39.120.200;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';50
-ip;176.105.219.23;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';40
-ip;172.245.208.136;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';80
-ip;193.163.125.170;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';50
-ip;190.202.91.30;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';50
-ip;175.21.171.112;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';40
-ip;195.177.94.60;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Remcos','unverified';80
-ip;182.53.145.218;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';40
-ip;196.92.7.246;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';70
-ip;20.2.139.87;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Reverse_SSH','unverified';70
-ip;23.95.193.221;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';60
-ip;193.163.125.168;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';50
-ip;154.144.225.226;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';80
-ip;185.233.166.28;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';60
-ip;190.186.207.166;2025-09-23 02:05:56;2025-09-23 02:05:56;'Bruteforce Host','malicious-activity';50
+domain;innostage.portalos.online;2025-09-23 19:16:42;2025-09-23 21:07:40;, '';97
+domain;innostage.portalos.ru;2025-09-23 19:16:42;2025-09-23 21:07:40;, '';97
+domain;lowprofiledown.lat;2025-09-23 20:01:20;2025-09-23 20:01:20;'';68
+domain;andrefelipedonascime1756166725866.0531865.meusitehostgator.com.br;2025-09-23 20:01:20;2025-09-23 20:01:20;'';68
+domain;cstest.mucfc.store;2025-09-23 02:05:56;2025-09-23 02:05:56;'C2','cobaltstrike';63
+domain;search.2y3rn846.com;2025-09-15 02:03:43;2025-09-23 00:01:17;'C2','cobaltstrike';80
+domain;ns1.duoo.cc;2025-09-22 20:02:07;2025-09-22 20:02:07;'C2','cobaltstrike';61
+domain;verificatisubito.it;2025-09-22 20:02:07;2025-09-22 20:02:07;'phishing','Subito','CyberSecurity','InfoSharing','ThreatIntelligence';47
+domain;ns1.jszwfw.com.cn;2025-09-22 20:02:07;2025-09-22 20:02:07;'C2','cobaltstrike';61
+domain;communitydesign.co.jp;2025-09-22 14:02:59;2025-09-22 14:02:59;'phishing','Aruba','CyberSecurity','InfoSharing','ThreatIntelligence';47
+domain;bpm.w0rkz.com;2025-09-21 02:02:58;2025-09-21 02:02:58;'C2','cobaltstrike';78
+domain;xxcaocs.556688.eu.org;2025-09-20 14:03:26;2025-09-20 14:03:26;'C2','cobaltstrike';58
+domain;cb2373.cdn.91fangyu.com;2025-09-20 00:01:29;2025-09-20 00:01:29;'';43
+domain;aliyunupdate.shop;2025-09-12 14:06:25;2025-09-20 00:01:29;'C2','cobaltstrike';45
+domain;unicredit-antiriciclaggio.com;2025-09-19 14:05:24;2025-09-19 14:05:24;'phishing','UNKNOWN','CyberSecurity','InfoSharing','ThreatIntelligence';86
+domain;smbc-card778.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';86
+domain;smbc-card513.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';60
+domain;smbc-card708.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';86
+domain;smbc-card597.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';86
+domain;smbc-card178.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';86
+domain;smbc-card959.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';86
+domain;smbc-card117.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';60
+domain;smbc-card139.club;2025-09-19 14:05:24;2025-09-19 14:05:24;'';86
+domain;cpcalendars.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';50
+domain;mail.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';50
+domain;webdisk.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';50
+domain;cpanel.qinformer.ru;2025-09-18 14:20:14;2025-09-18 14:20:14;'';50
+domain;qinformer.ru;2025-09-18 14:16:31;2025-09-18 14:16:31;'';42
+domain;my-jcb-co.l3ubj6.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';42
+domain;e-t-c-meisai3.98biy.cyou;2025-09-18 14:05:34;2025-09-18 14:05:34;'';84
+domain;my-jcb-co.1zyrgw.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';84
+domain;smbc-card552.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';84
+domain;my-jcb-co.ber7u2.top;2025-09-18 14:05:34;2025-09-18 14:05:34;'';84
+domain;sellaapp.sviluppo.host;2025-09-18 14:05:34;2025-09-18 14:05:34;'phishing','BancaSella','CyberSecurity','InfoSharing','ThreatIntelligence';84
+domain;smbc-card717.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';84
+url;http://158.247.225.14:7443;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Mythic','unverified';40
+url;http://45.63.12.95:7443;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Mythic','unverified';40
+url;http://178.73.218.5:5000;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','DcRat','unverified';40
+url;http://102.212.247.231:7443;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Covenant','unverified';50
+url;http://69.157.7.52:2222;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Qakbot','unverified';40
+url;http://196.251.80.78:6001;2025-09-23 14:02:50;2025-09-23 14:02:50;'c2','Remcos','unverified';58
+url;http://196.251.80.78:6000;2025-09-23 14:02:50;2025-09-23 14:02:50;'c2','Remcos','unverified';58
+url;http://178.16.55.52:8090;2025-09-23 14:02:50;2025-09-23 14:02:50;'c2','AdaptixC2','unverified';58
+url;http://196.251.87.24:8808;2025-09-23 14:02:50;2025-09-23 14:02:50;'c2','AsyncRAT','unverified';58
+url;http://195.74.233.114:995;2025-09-23 08:01:54;2025-09-23 08:01:54;'c2','Qakbot','unverified';58
+url;http://104.194.143.193:443;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Sliver','unverified';49
+url;http://159.75.211.248:53;2025-09-23 02:05:56;2025-09-23 02:05:56;'C2','cobaltstrike';49
+url;http://103.241.67.251:7443;2025-09-23 02:05:56;2025-09-23 02:05:56;'c2','Mythic','unverified';49
+url;http://114.132.245.97/api/3;2025-09-23 00:01:17;2025-09-23 00:01:17;'C2','cobaltstrike';57
+url;http://121.40.69.150:53;2025-09-22 20:02:07;2025-09-22 20:02:07;'C2','cobaltstrike';57
+url;http://communitydesign.co.jp/bm/aruba/aruba/de/indexo.php;2025-09-22 14:02:59;2025-09-22 14:02:59;'phishing','Aruba','CyberSecurity','InfoSharing','ThreatIntelligence';57
+url;http://104.140.154.35:30188;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Deimos','unverified';47
+url;http://104.140.154.80:30158;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Deimos','unverified';47
+url;http://115.120.247.133:7443;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Mythic','unverified';47
+url;http://208.113.131.209:3333;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Evilginx','EvilGoPhish','unverified';47
+url;http://104.140.154.172:30095;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','Deimos','unverified';47
+url;http://165.22.119.30:4321;2025-09-22 02:02:57;2025-09-22 02:02:57;'c2','AdaptixC2','unverified';47
+url;http://222.255.214.236:31337;2025-09-21 08:00:56;2025-09-21 08:00:56;'c2','Sliver','unverified';55
+url;http://107.174.34.142:14649;2025-09-21 02:02:58;2025-09-21 02:02:58;'c2','Remcos','unverified';55
+url;http://143.92.35.20:3230;2025-09-21 02:02:58;2025-09-21 02:02:58;'c2','Supershell','unverified';46
+url;http://113.45.30.33:4433;2025-09-21 02:02:58;2025-09-21 02:02:58;'C2','cobaltstrike';46
+url;http://116.205.106.137:9998;2025-09-20 14:03:26;2025-09-20 14:03:26;'C2','cobaltstrike';53
+url;http://143.198.16.180:31337;2025-09-20 02:03:26;2025-09-20 02:03:26;'c2','Sliver','unverified';44
+url;http://150.107.38.147:31337;2025-09-20 02:03:26;2025-09-20 02:03:26;'c2','Sliver','unverified';44
+url;http://www.aliyunupdate.shop;2025-09-20 00:01:29;2025-09-20 00:01:29;'C2','cobaltstrike';43
+url;http://47.117.174.198:8080;2025-09-19 14:05:24;2025-09-19 14:05:24;'C2','cobaltstrike';52
+url;http://118.193.38.154:443;2025-09-19 14:05:24;2025-09-19 14:05:24;'C2','cobaltstrike';43
+url;http://www.unicredit-antiriciclaggio.com;2025-09-19 14:05:24;2025-09-19 14:05:24;'phishing','UNKNOWN','CyberSecurity','InfoSharing','ThreatIntelligence';52
+url;http://172.245.209.196:2404;2025-09-19 02:03:08;2025-09-19 02:03:08;'c2','Remcos','unverified';43
+url;https://smbc-card868.club;2025-09-18 14:05:34;2025-09-18 14:05:34;'';50
+sha256;3aa68cec61be533fc140fbd612c9601b6483485e49033ecaac3b5bdeca45a7a5;2025-09-24 10:02:26;2025-09-24 10:02:26;'';70
+sha256;0a2e5703c3a4d4706d123f8de8615486cf3dce7e02980d0962b3e2ccabb28fe8;2025-09-23 12:36:23;2025-09-23 12:36:23;'';49
+sha256;66a9548a3b309282500bc4aab0583aa8223e6b7a4aeda84fd3d56f53c31b9302;2025-09-23 12:35:47;2025-09-23 12:35:47;'';49
+sha256;69b859db7397a04bb1f1c2ff9d987686b5ce0c64ec8fc716c783ed6dd755e291;2025-09-22 20:02:07;2025-09-22 20:02:07;'';57
+sha256;88e9c1f5026834ebcdaed98f56d52b5f23547ac2c03aa43c5e50e7d8e1b82b3a;2025-09-22 08:01:40;2025-09-22 08:01:40;'';57
+sha256;fc3e2d3e23e3f410b9a7c0eaff3ed7bdde7b0bb49d737494cc4cfad3ff0f4e69;2025-09-22 08:01:40;2025-09-22 08:01:40;'';57
+sha256;8e6e3c15005c4e71f5e104331b23ea084cf69f6bab9f03e9f9e2602d938a0514;2025-09-18 14:16:31;2025-09-18 14:16:31;'';50
+sha256;d9b231ceb87b7fe3777c7a6d7f22b3cce231165b9d47563065f6fd22083d5df5;2025-09-17 16:42:49;2025-09-17 16:42:49;'';41
+ip;45.63.12.95;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Mythic','unverified';80
+ip;69.157.7.52;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Qakbot','unverified';90
+ip;111.229.194.248;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Mythic','unverified';70
+ip;139.84.193.193;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Havoc','unverified';50
+ip;3.27.140.57;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Havoc','unverified';50
+ip;143.198.99.235;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Interactsh','unverified';50
+ip;158.247.225.14;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Mythic','unverified';80
+ip;178.73.218.5;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','DcRat','unverified';90
+ip;64.226.120.251;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Mythic','unverified';100
+ip;102.212.247.231;2025-09-24 08:03:04;2025-09-24 08:03:04;'c2','Covenant','unverified';80
+ip;45.157.150.160;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';78
+ip;49.234.53.181;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';49
+ip;51.158.120.121;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';87
+ip;14.103.114.136;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';78
+ip;139.159.99.95;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';49
+ip;14.63.217.28;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';58
+ip;177.84.63.118;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';78
+ip;118.26.39.187;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';78
+ip;65.49.1.59;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';49
+ip;14.18.99.119;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';78
+ip;64.227.170.229;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';68
+ip;36.108.172.220;2025-09-24 01:05:49;2025-09-24 01:05:49;'Bruteforce Host','malicious-activity';58
