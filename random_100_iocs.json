@@ -33,6 +33,14 @@
     },
     {
         "ioctype":"domain",
+        "ioc":"smbcrad-jo.rip",
+        "first_seen":1759752586000,
+        "last_seen":1759752586000,
+        "tags":"''",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"domain",
         "ioc":"smbcrad-yv.rip",
         "first_seen":1759752586000,
         "last_seen":1759752586000,
@@ -42,14 +50,6 @@
     {
         "ioctype":"domain",
         "ioc":"smbcrad-yo.rip",
-        "first_seen":1759752586000,
-        "last_seen":1759752586000,
-        "tags":"''",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"smbcrad-jo.rip",
         "first_seen":1759752586000,
         "last_seen":1759752586000,
         "tags":"''",
@@ -129,55 +129,7 @@
     },
     {
         "ioctype":"domain",
-        "ioc":"kadet.ru",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"lovingod.host.sk",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":52
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"fuck.ru",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"potleaf.chat.ru",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":52
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"hackers.lv",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"asechka.ru",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"ns8.softline.top",
+        "ioc":"ldark.nm.ru",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
@@ -193,7 +145,7 @@
     },
     {
         "ioctype":"domain",
-        "ioc":"mazafaka.ru",
+        "ioc":"kadet.ru",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
@@ -201,11 +153,19 @@
     },
     {
         "ioctype":"domain",
-        "ioc":"goldensand.ru",
+        "ioc":"asechka.ru",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
         "CyberArt_score":42
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"ns9.softline.top",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":52
     },
     {
         "ioctype":"domain",
@@ -217,7 +177,23 @@
     },
     {
         "ioctype":"domain",
-        "ioc":"ldark.nm.ru",
+        "ioc":"hackers.lv",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":42
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"mazafaka.ru",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":42
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"ns8.softline.top",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
@@ -225,11 +201,35 @@
     },
     {
         "ioctype":"domain",
-        "ioc":"ns9.softline.top",
+        "ioc":"potleaf.chat.ru",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
         "CyberArt_score":52
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"fuck.ru",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":42
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"lovingod.host.sk",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":52
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"goldensand.ru",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":42
     },
     {
         "ioctype":"domain",
@@ -345,14 +345,6 @@
     },
     {
         "ioctype":"url",
-        "ioc":"http:\/\/rpielh.cn\/YtoH_sy\/shipping\/DIjNY4huc8\/LltWdvY\/de",
-        "first_seen":1759733281000,
-        "last_seen":1759733281000,
-        "tags":"'phishing','1','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','DHLcc'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
         "ioc":"http:\/\/rpielh.cn\/YtoH_sy\/shipping\/DIjNY4huc8\/LltWdvY\/details\/Y6ixf\/history\/Oog-V\/offers\/Qh05Ix\/help\/kDARoWU-uuJO?timezone=Asia%2FTokyo&lang=ja&platform=MacIntel&signed=QXNpYS9Ub2t5b2phTWFjSW50ZWw%3D&session_token=8ca79157792a9e",
         "first_seen":1759733281000,
         "last_seen":1759733281000,
@@ -361,7 +353,15 @@
     },
     {
         "ioctype":"url",
-        "ioc":"http:\/\/crutop.nu\/index.php",
+        "ioc":"http:\/\/rpielh.cn\/YtoH_sy\/shipping\/DIjNY4huc8\/LltWdvY\/de",
+        "first_seen":1759733281000,
+        "last_seen":1759733281000,
+        "tags":"'phishing','1','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','DHLcc'",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/asechka.ru\/index.php",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
@@ -370,14 +370,6 @@
     {
         "ioctype":"url",
         "ioc":"http:\/\/crutop.nu\/index.htm",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":47
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/asechka.ru\/index.php",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
@@ -394,6 +386,14 @@
     {
         "ioctype":"url",
         "ioc":"http:\/\/kadet.ru\/index.htm",
+        "first_seen":1759724418000,
+        "last_seen":1759724418000,
+        "tags":"''",
+        "CyberArt_score":47
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/crutop.nu\/index.php",
         "first_seen":1759724418000,
         "last_seen":1759724418000,
         "tags":"''",
@@ -497,6 +497,14 @@
     },
     {
         "ioctype":"url",
+        "ioc":"http:\/\/wormoni.lms-austria.com:60736",
+        "first_seen":1759422936000,
+        "last_seen":1759422936000,
+        "tags":"''",
+        "CyberArt_score":50
+    },
+    {
+        "ioctype":"url",
         "ioc":"https:\/\/indoorvisions.org\/patriarchal\/furthering\/creating\/flared\/censured",
         "first_seen":1759422936000,
         "last_seen":1759422936000,
@@ -505,7 +513,7 @@
     },
     {
         "ioctype":"url",
-        "ioc":"https:\/\/trailtastic.org\/glowworms\/diverted\/calorie\/britons\/parabolas",
+        "ioc":"http:\/\/novochrom.us\/pure\/Nvcwy.pdf",
         "first_seen":1759422936000,
         "last_seen":1759422936000,
         "tags":"''",
@@ -513,7 +521,7 @@
     },
     {
         "ioctype":"url",
-        "ioc":"http:\/\/novochrom.us\/pure\/Nvcwy.pdf",
+        "ioc":"https:\/\/trailtastic.org\/glowworms\/diverted\/calorie\/britons\/parabolas",
         "first_seen":1759422936000,
         "last_seen":1759422936000,
         "tags":"''",
@@ -537,14 +545,6 @@
     },
     {
         "ioctype":"url",
-        "ioc":"http:\/\/wormoni.lms-austria.com:60736",
-        "first_seen":1759422936000,
-        "last_seen":1759422936000,
-        "tags":"''",
-        "CyberArt_score":50
-    },
-    {
-        "ioctype":"url",
         "ioc":"https:\/\/testradius.com\/3000.htm",
         "first_seen":1759408613000,
         "last_seen":1759410786000,
@@ -553,11 +553,35 @@
     },
     {
         "ioctype":"url",
-        "ioc":"https:\/\/marchline.org\/abolition\/0d9a8694-6436-40ce-ba90-9ed02288fd61\/ticket\/",
-        "first_seen":1759410786000,
+        "ioc":"https:\/\/notpalata-nursultan.kz\/wp-includes\/bluks\/",
+        "first_seen":1759408613000,
         "last_seen":1759410786000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":50
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"160.191.243.93",
+        "first_seen":1760008378000,
+        "last_seen":1760008378000,
+        "tags":"''",
+        "CyberArt_score":100
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"15.235.75.76",
+        "first_seen":1759958856000,
+        "last_seen":1759958856000,
+        "tags":"''",
+        "CyberArt_score":100
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"185.208.159.161",
+        "first_seen":1759860003000,
+        "last_seen":1759860003000,
+        "tags":"'malware','OpenDir','QuasarRat','thread'",
+        "CyberArt_score":94
     },
     {
         "ioctype":"ip",
@@ -569,234 +593,210 @@
     },
     {
         "ioctype":"ip",
-        "ioc":"5.1.0.12",
-        "first_seen":1759724418000,
-        "last_seen":1759724418000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"178.17.62.9",
-        "first_seen":1759717128000,
-        "last_seen":1759717128000,
-        "tags":"''",
-        "CyberArt_score":71
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"2.57.121.112",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"197.44.15.210",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
+        "CyberArt_score":57
     },
     {
         "ioctype":"ip",
-        "ioc":"46.171.220.254",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":66
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"101.71.130.99",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"112.112.62.157",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":94
     },
     {
         "ioctype":"ip",
-        "ioc":"8.222.138.154",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":52
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"159.65.25.66",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"102.88.137.80",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":94
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"209.97.161.72",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":66
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"120.48.103.127",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":94
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"218.77.77.96",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":52
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"47.100.17.88",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"170.254.229.191",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":66
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"58.27.134.38",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"39.114.14.2",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":75
     },
     {
         "ioctype":"ip",
-        "ioc":"125.124.149.14",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":94
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"79.13.33.136",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":94
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"14.103.114.234",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":94
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"14.51.236.39",
-        "first_seen":1759543200000,
-        "last_seen":1759716000000,
+        "ioc":"207.54.149.118",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":66
     },
     {
         "ioctype":"ip",
-        "ioc":"45.119.86.200",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"18.97.19.202",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"14.103.127.195",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"103.189.235.164",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"45.165.14.197",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":94
     },
     {
         "ioctype":"ip",
-        "ioc":"14.225.205.231",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"43.242.247.141",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"61.163.139.250",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"35.216.167.40",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"46.147.113.91",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"45.10.175.246",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"183.110.116.126",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"14.103.173.166",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"103.236.140.19",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":75
     },
     {
         "ioctype":"ip",
-        "ioc":"60.188.249.64",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":94
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"49.82.211.73",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"220.118.173.234",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"194.107.115.199",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"81.0.221.64",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":75
     },
     {
         "ioctype":"ip",
-        "ioc":"61.231.193.181",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"8.130.19.168",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":85
     },
     {
         "ioctype":"ip",
-        "ioc":"27.128.170.160",
-        "first_seen":1759716000000,
-        "last_seen":1759716000000,
+        "ioc":"190.89.95.18",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"139.47.14.220",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"36.40.79.122",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"37.27.23.147",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"103.88.76.27",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"203.2.113.71",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":75
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"180.184.160.202",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"150.139.201.247",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"171.231.187.136",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"107.172.50.151",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":75
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"90.156.225.90",
+        "first_seen":1759802400000,
+        "last_seen":1759802400000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":75
     }
 ]
