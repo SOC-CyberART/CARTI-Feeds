@@ -1,101 +1,84 @@
 ioctype;ioc;first_seen;last_seen;tags;CyberArt_score
-domain;climbwest.com.au;2025-10-11 17:40:07;2025-10-11 17:40:07;'phishing','CyberSecurity','InfoSharing','ThreatIntelligence','Aruba';61
-domain;b4a.run;2025-10-09 22:49:02;2025-10-09 22:49:02;'APT','Phishing','Sidewinder','Bangladesh','Infrastructure';58
-domain;instatechtrendings.com;2025-10-09 15:17:00;2025-10-09 15:17:00;'';58
-domain;wy29d68v.com;2025-10-09 14:27:45;2025-10-09 14:27:45;'DaveShell';71
-domain;trigondigital.in;2025-10-08 09:00:35;2025-10-08 09:00:35;'phishing','フィッシング詐欺165';82
-domain;sorvetenopote.com;2025-10-01 12:57:46;2025-10-08 02:12:34;'';49
-domain;suryakirantech.com;2025-10-07 22:51:18;2025-10-07 22:51:18;'';42
-domain;lojaspoint.com;2025-10-07 22:51:18;2025-10-07 22:51:18;'';42
-domain;gadisallc.top;2025-10-07 17:03:18;2025-10-07 17:03:18;'';50
-domain;jobdescriptionboohoo.com;2025-10-07 12:53:04;2025-10-07 12:53:04;'Ducktail';84
-domain;smbcrad-jo.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';69
-domain;smbcrad-yv.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';69
-domain;smbcrad-yo.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';69
-domain;smbcrad-uz.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';57
-domain;sella-it.com;2025-10-06 10:00:04;2025-10-06 10:00:04;'phishing','CyberSecurity','InfoSharing','ThreatIntelligence','BancaSella';53
-domain;rdzphv.cn;2025-10-06 08:27:46;2025-10-06 08:27:46;'phishing','フィッシング詐欺','えきねっと','JR東日本160';77
-domain;wtvrff.cn;2025-10-06 07:26:10;2025-10-06 07:26:10;'phishing','フィッシング詐欺','佐川急便1120';65
-domain;vyukfcv.cn;2025-10-03 12:38:38;2025-10-06 07:26:09;'phishing','ã','1â','ä½', 'phishing','1','フィッシング詐欺','佐川急便cc';69
-domain;pcsmxx.cn;2025-10-06 07:12:17;2025-10-06 07:12:17;'phishing','1','フィッシング詐欺','日本郵政','郵便局cc';77
-domain;sylgwx.cn;2025-10-03 12:47:06;2025-10-06 06:58:43;'phishing','フィッシング詐欺','JCB','MyJCB146', 'phishing','ã','1â','JCB','MyJCBcc';52
-domain;sxsnfhg.cn;2025-10-06 06:58:43;2025-10-06 06:58:43;'phishing','フィッシング詐欺','JCB','MyJCB129';41
-domain;vxekxl.cn;2025-10-06 06:48:02;2025-10-06 06:48:02;'phishing','フィッシング詐欺','DHL49';53
-domain;rpielh.cn;2025-10-06 06:48:01;2025-10-06 06:48:01;'phishing','フィッシング詐欺','DHL143';77
-domain;slmyxs.cn;2025-10-06 06:34:53;2025-10-06 06:34:53;'phishing','フィッシング詐欺','トリップドットコム163';57
-domain;ns7.softline.top;2025-10-06 04:20:18;2025-10-06 04:20:18;'';45
-domain;parex-bank.ru;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;konfiskat.org;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;kidos-bank.ru;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;filesearch.ru;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;ros-neftbank.ru;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;lovingod.host.sk;2025-10-06 04:20:18;2025-10-06 04:20:18;'';45
-domain;crutop.nu;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;fethard.biz;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;trojan.ru;2025-10-06 04:20:18;2025-10-06 04:20:18;'';53
-domain;ldark.nm.ru;2025-10-06 04:20:18;2025-10-06 04:20:18;'';45
-url;http://b4a.run;2025-10-09 22:49:02;2025-10-09 22:49:02;'APT','Phishing','Sidewinder','Bangladesh','Infrastructure';44
-url;https://sorvetenopote.com/api/itbi/startup/;2025-10-08 02:12:34;2025-10-08 02:12:34;'';60
-url;http://jobdescriptionboohoo.com;2025-10-07 12:53:04;2025-10-07 12:53:04;'Ducktail';42
-url;https://smbcrad-uz.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';49
-url;https://smbcrad-yo.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';49
-url;https://smbcrad-jo.rip;2025-10-06 12:09:46;2025-10-06 12:09:46;'';49
-url;http://rdzphv.cn/;2025-10-06 08:27:46;2025-10-06 08:27:46;'phishing','1','フィッシング詐欺','えきねっと','JR東日本cc';49
-url;https://wtvrff.cn/sv1w/da=1/weq1=sagawa/;2025-10-06 07:26:10;2025-10-06 07:26:10;'phishing','フィッシング詐欺','佐川急便1120';41
-url;http://vyukfcv.cn/JisS-75C/orders/5s_Qr9/login/w_JtNpCKomHs/pa491/shipping/;2025-10-06 07:26:09;2025-10-06 07:26:09;'phishing','1','フィッシング詐欺','佐川急便cc';49
-url;http://pcsmxx.cn/4O6oZt/payment/piqO8duKwiL04A/RQRJeK0/payment/ym;2025-10-06 07:12:17;2025-10-06 07:12:17;'phishing','1','フィッシング詐欺','日本郵政','郵便局cc';49
-url;https://sxsnfhg.cn/m1/w2/gf=jcbbjcb/;2025-10-06 06:58:43;2025-10-06 06:58:43;'phishing','フィッシング詐欺','JCB','MyJCB129';41
-url;https://vxekxl.cn/vhesxteq2/eqweq231/gerg3123=dhls/;2025-10-06 06:48:02;2025-10-06 06:48:02;'phishing','フィッシング詐欺','DHL49';57
-url;http://rpielh.cn/YtoH_sy/shipping/DIjNY4huc8/LltWdvY/details/Y6ixf/history/Oog-V/offers/Qh05Ix/help/kDARoWU-uuJO?timezone=Asia%2FTokyo&lang=ja&platform=MacIntel&signed=QXNpYS9Ub2t5b2phTWFjSW50ZWw%3D&session_token=8ca79157792a9e;2025-10-06 06:48:01;2025-10-06 06:48:01;'phishing','フィッシング詐欺','DHL143';49
-url;http://rpielh.cn/YtoH_sy/shipping/DIjNY4huc8/LltWdvY/de;2025-10-06 06:48:01;2025-10-06 06:48:01;'phishing','1','フィッシング詐欺','DHLcc';49
-url;http://kadet.ru/index.htm;2025-10-06 04:20:18;2025-10-06 04:20:18;'';41
-url;http://lovingod.host.sk/index.php;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://devx.nm.ru/index.php;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://mazafaka.ru/index.php;2025-10-06 04:20:18;2025-10-06 04:20:18;'';41
-url;http://ns7.softline.top;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://asechka.ru/index.php;2025-10-06 04:20:18;2025-10-06 04:20:18;'';41
-url;http://ns9.softline.top;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://ldark.nm.ru/index.htm;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://potleaf.chat.ru/index.htm;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://ns8.softline.top;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-url;http://crutop.nu/index.htm;2025-10-06 04:20:18;2025-10-06 04:20:18;'';41
-url;http://crutop.nu/index.php;2025-10-06 04:20:18;2025-10-06 04:20:18;'';41
-url;http://xware.cjb.net/index.htm;2025-10-06 04:20:18;2025-10-06 04:20:18;'';49
-ip;20.46.53.4;2025-10-13 06:18:33;2025-10-13 06:18:33;'';90
-ip;2.57.121.112;2025-10-07 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';86
-ip;103.171.84.20;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;57.128.190.44;2025-09-27 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;134.209.36.11;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;185.255.91.50;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;103.81.86.208;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;95.85.114.218;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;34.66.72.251;2025-09-26 00:02:19;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity', 'Bruteforce Host','malicious-activity';49
-ip;196.251.69.141;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;38.100.203.79;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;210.79.190.22;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;101.36.123.102;2025-09-26 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity', 'Bruteforce Host','malicious-activity';74
-ip;115.190.35.250;2025-09-26 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;139.59.64.179;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;103.31.38.209;2025-10-08 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;115.190.121.107;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;182.180.59.208;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;45.148.10.240;2025-09-24 00:07:12;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity', 'Bruteforce Host','malicious-activity';89
-ip;160.191.150.196;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;203.25.208.110;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;85.185.45.52;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;14.63.196.175;2025-10-06 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';45
-ip;152.32.215.203;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;202.74.239.125;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;101.91.157.239;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;79.137.74.38;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;64.225.78.54;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;177.8.166.171;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;190.121.192.214;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;20.127.224.153;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';47
-ip;161.35.71.172;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;109.205.176.19;2025-10-10 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;46.253.45.10;2025-10-11 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;2.50.100.172;2025-09-25 02:00:00;2025-10-11 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';70
-sha256;03ffa79d906aba30c3311b9c935ed67933f9d4162dd5b6ae40fd1f903228771b;2025-10-13 11:39:50;2025-10-13 11:39:50;'';40
-sha256;91922290ecb799b160ed2c71251204e6a10b1c6019dfda89478c800772dda945;2025-10-13 10:58:45;2025-10-13 10:58:45;'';100
-sha256;75d39678f81d18d907e33df95bb65a68ed5e81d10917d66be3a05678cbf80d05;2025-10-13 10:58:44;2025-10-13 10:58:44;'';100
+url;http://b4a.run;2025-10-09 22:49:02;2025-10-09 22:49:02;'APT','Phishing','Sidewinder','Bangladesh','Infrastructure';43
+url;https://sorvetenopote.com/api/itbi/startup/;2025-10-08 02:12:34;2025-10-08 02:12:34;'';59
+url;http://jobdescriptionboohoo.com;2025-10-07 12:53:04;2025-10-07 12:53:04;'Ducktail';41
+domain;climbwest.com.au;2025-10-11 17:40:07;2025-10-11 17:40:07;'phishing','CyberSecurity','InfoSharing','ThreatIntelligence','Aruba';59
+domain;b4a.run;2025-10-09 22:49:02;2025-10-09 22:49:02;'APT','Phishing','Sidewinder','Bangladesh','Infrastructure';56
+domain;instatechtrendings.com;2025-10-09 15:17:00;2025-10-09 15:17:00;'';56
+domain;wy29d68v.com;2025-10-09 14:27:45;2025-10-09 14:27:45;'DaveShell';69
+domain;trigondigital.in;2025-10-13 06:53:30;2025-10-08 09:00:35;'phishing','フィッシング詐欺165', 'phishing','フィッシング詐欺80';79
+domain;sorvetenopote.com;2025-10-01 12:57:46;2025-10-08 02:12:34;'';67
+domain;lojaspoint.com;2025-10-07 22:51:18;2025-10-07 22:51:18;'';41
+domain;suryakirantech.com;2025-10-07 22:51:18;2025-10-07 22:51:18;'';41
+domain;gadisallc.top;2025-10-07 17:03:18;2025-10-07 17:03:18;'';49
+domain;jobdescriptionboohoo.com;2025-10-07 12:53:04;2025-10-07 12:53:04;'Ducktail';81
+ip;123.58.212.18;2025-10-13 17:15:50;2025-10-13 17:15:50;'';97
+ip;38.60.203.110;2025-10-13 13:36:57;2025-10-13 13:36:57;'';49
+ip;20.46.53.4;2025-10-13 06:18:33;2025-10-13 06:18:33;'';87
+ip;61.171.53.162;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;85.208.253.156;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;202.168.187.216;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';71
+ip;27.254.235.4;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
+ip;113.166.230.161;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;14.103.165.70;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;103.76.120.90;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;125.88.169.233;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;45.184.143.118;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;77.105.182.78;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;192.227.214.205;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;216.108.227.59;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;93.100.137.33;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;39.103.62.164;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;120.48.25.89;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;114.8.146.58;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;14.103.141.235;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;129.0.165.10;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;113.166.230.105;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;185.213.165.72;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;103.26.136.4;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;113.166.230.181;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;65.254.93.52;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;4.194.4.255;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;14.225.255.43;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;43.155.14.27;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;186.10.86.130;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;113.166.230.166;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;41.58.186.130;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;106.12.69.68;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;165.232.90.37;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;209.38.228.14;2025-10-12 02:00:00;2025-10-12 02:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+sha256;b358eed4943273296acb701c5f7840eca252eba57847a12234ae3df15963c15f;2025-10-10 07:00:00;2025-10-14 07:00:00;'WORM';56
+sha256;d4546fb2db08c6643b0a04579a6cec0e32b0196cede79fdd2798e71eadb2c793;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;372a92c73a9d38038572fce1e83f835e16fbb22e3d552739c4f60359b55ce39e;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN_DOWNLOADER';80
+sha256;aee7978dc8889e53d9cbd36ff78c5c26d92e52365591accc0a7ba2afbcc40dbf;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN_DOWNLOADER';80
+sha256;02e351088f245509a4b7d1d260e6425c91e71a225b85457bacf1ecce6ad9faae;2025-10-10 07:00:00;2025-10-14 07:00:00;'WORM';56
+sha256;a509d90eaa00df8640c180439726fc0ed487dc30d236e19d1fc1514782e23671;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;3f7cf64fd69790d042e5e78c4203d5827a004fa8e7735161a6ab03812224548a;2025-10-10 07:00:00;2025-10-14 07:00:00;'WORM';56
+sha256;7dd2b2f2b2bb5276c88c51be05396173ccf61aaa852396b33267e66302714c56;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;47dfe1c853f500ad0a9b7730d1af7748167d79a937379d595be90be0d50fb9e3;2025-10-10 07:00:00;2025-10-14 07:00:00;'WORM';56
+sha256;4ff2077d04c07ad1d5d217937ceab185343e8a9549e60d02dc092a60a03f1729;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;66205a790b4ab07809b0ed791bca6b4e965d68a6b8fe5bc29321256e4684a56f;2025-10-14 07:00:00;2025-10-14 07:00:00;'BACKDOOR';80
+sha256;2453eb2d4955c8ffe6c2f133255e02c52c1c0cd7947bc507a1c2a8345ef24a12;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;faa2ffa4498542a73f97ca66525fe785788559665b0a553a322d5ccefa7bf473;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;a4974611d6912f7ada262daf6791a71913620b56fe0b5e0c12c3d094d47fd144;2025-10-14 07:00:00;2025-10-14 07:00:00;'TROJAN';80
+sha256;194ebd6043d877ad1f79aeb6227d6d58c3c2697c29c0b84dd83970e947f73c15;2025-10-14 04:37:24;2025-10-14 04:37:24;'';40
+sha256;cf88e14a379344c64b022dc111e29a58d83c97816b7149e5774b35f119176315;2025-10-14 04:00:00;2025-10-14 04:00:00;'TROJAN';80
+sha256;f6e94fa9e9316191168dd36a698a02f4dfd914b5533f4161f5e1377470e034c2;2025-10-14 01:00:00;2025-10-14 01:00:00;'BACKDOOR';78
+sha256;b1cc63a102bfb5637a8f972334c15466d7b7c11dc1088135c48a7cd4a3da4ce4;2025-10-14 00:31:24;2025-10-14 00:31:24;'';49
+sha256;0fc46b2a65a1e97a2d182c126a99aef61a8c34ada22c3e2b925b2b39b052fbe1;2025-10-14 00:00:00;2025-10-14 00:00:00;'TROJAN';78
+sha256;51e37873ee8098d11b8f6aef0b75fd3979cf8ab70c0f507d3e7354dcaf5d7473;2025-10-13 23:00:00;2025-10-13 23:00:00;'TROJAN_DOWNLOADER';78
+sha256;46a36628dc6cc3fcdf22a8b4a9e464694dde769942bd0511fa5ac67aac6b4040;2025-10-13 23:00:00;2025-10-13 23:00:00;'TROJAN_DOWNLOADER';78
+sha256;aae9401a4d4dca9c78ec18d49658ecc1c03562de415064e9b3ffa60a312851f9;2025-10-13 23:00:00;2025-10-13 23:00:00;'TROJAN_DOWNLOADER';78
+sha256;d40ca44aca0b3e9fec2f047ac4296fb6f0cc02ddd6cb4bcca6c228d4a77e7c95;2025-10-13 23:00:00;2025-10-13 23:00:00;'TROJAN_DOWNLOADER';78
+sha256;a13352d2ee7191a2a8cd4751c4a0fb1cb59c62985a34ba51eb934b71ee1ed827;2025-10-13 23:00:00;2025-10-13 23:00:00;'TROJAN_DOWNLOADER';78
+sha256;15cddbc089134e45ea636347d77d137455ea08dd6cf90a9685aa78e8439a043e;2025-10-13 23:00:00;2025-10-13 23:00:00;'TROJAN';78
+sha256;0e5464ffcdeb9c6edba3dd4899c2769f0c79f5a7a46f55abeca5036f488c5582;2025-10-13 22:00:00;2025-10-13 22:00:00;'UNKNOWN_THREAT';78
+sha256;d1ccb548a03a2680a8eec32bcb1d0ed37e68cd45cf152a298f4688583e4f62dc;2025-10-13 22:00:00;2025-10-13 22:00:00;'TROJAN';49
+sha256;68fb58b8c0246134161ea79b127538a97f6bbe788dbbfae2d3ee4c1e296eeb96;2025-10-13 22:00:00;2025-10-13 22:00:00;'WORM';78
+sha256;387b39d776a25accfe089d0da9009d1edd06db6861e321b75094690851cc6909;2025-10-13 22:00:00;2025-10-13 22:00:00;'UNKNOWN_THREAT';78
+sha256;4ea9a321958b4d2c43cadbb62e2b037b958ed5f9984033aa3a9d10a5423fd006;2025-10-13 22:00:00;2025-10-13 22:00:00;'BACKDOOR';78
+sha256;00bdfdc5247b735f127072f336b6164ccc864fcbcf168e377739d9b3ce220659;2025-10-13 22:00:00;2025-10-13 22:00:00;'UNKNOWN_THREAT';78
+sha256;dcfa2975d38f147f2d07eab065cee080a0b982c3a5bdab37678bd86335716f30;2025-10-13 22:00:00;2025-10-13 22:00:00;'BACKDOOR';78
+sha256;c3172ba513543384f3c3cbea91bcccd9cf2e5d1e6e7f9f2bbba2bfc578f40f22;2025-10-13 22:00:00;2025-10-13 22:00:00;'UNKNOWN_THREAT';78
+sha256;e3a51603a25c5dc158843c1b3d7be7f18ffc8af47697ee8409e4c95c3383ef72;2025-10-13 22:00:00;2025-10-13 22:00:00;'WORM';78
+sha256;df1dddd8505cf183f9ec81dac2f2c6a570984b9cbaf431cba909a7a896d096fc;2025-10-13 21:01:00;2025-10-13 21:01:00;'WORM';78
