@@ -1,87 +1,86 @@
 ioctype;ioc;first_seen;last_seen;tags;CyberArt_score
-domain;clud-eplus.jp;2025-10-27 14:20:58;2025-10-27 14:20:58;'phishing','1','フィッシング詐欺','eplus100','イープラス';62
-domain;ryzgsj.cn;2025-10-27 14:11:56;2025-10-27 14:11:56;'phishing','フィッシング詐欺','JACCSカード','ジャックスカード58';75
-domain;my-ttbnumbercardpoint-soumu-gejp.chiguaw3.cyou;2025-10-27 14:05:47;2025-10-27 14:05:47;'phishing','1','フィッシング詐欺','マイナポイント','総務省cc';75
-domain;kdjzcl.cn;2025-10-27 13:53:01;2025-10-27 13:53:01;'phishing','PayPay','フィッシング詐欺','ペイペイ145';75
-domain;cveprws.cn;2025-10-27 13:47:31;2025-10-27 13:47:31;'phishing','1','フィッシング詐欺','トリップドットコム','Tripcc';75
-domain;hxmyzs.cn;2025-10-27 13:34:55;2025-10-27 13:34:55;'phishing','1','フィッシング詐欺','東京ガス','myTOKYOGAScc';84
-domain;pydzxs.cn;2025-10-27 13:29:49;2025-10-27 13:29:49;'phishing','フィッシング詐欺','メルカリ','mercari147';75
-domain;something0x.at;2025-10-26 15:06:43;2025-10-26 15:06:43;'osx','amos','odysseyAge';69
-domain;o-r.kr;2025-10-25 18:44:14;2025-10-25 18:44:14;'';46
-domain;sisa.sn;2025-10-24 17:05:56;2025-10-24 17:13:42;'stego';41
-url;http://ryzgsj.cn/hK0JHlG/feedback/s5FAsMKY-q/K7AEq/rewards/jNIXdtys/profile/9-I1RG3/inbox/soffkRFH-C_nD/HYaP6Kh/orders?clickid=6MCK0VVdjHSw&id=9hn1Tl&token=-riXh4zXUapCbs4K&cart_id=W2b_AT2hS1;2025-10-27 14:11:56;2025-10-27 14:11:56;'phishing','フィッシング詐欺','JACCSカード','ジャックスカード58';53
-url;https://my-ttbnumbercardpoint-soumu-gejp.chiguaw3.cyou/Goole/2025-10-30/aaaa-sXtmHj;2025-10-27 14:05:47;2025-10-27 14:05:47;'phishing','1','フィッシング詐欺','マイナポイント','総務省cc';53
-url;http://kdjzcl.cn/XT47H41k/tracking/B3LYFf2wXg/UwHkANs/subscription/xroMF2Fy7v/xMV4w3/billing/n2E2LRJOH4B/rc7o_/login/k3ucWCm_UCyC/1kzhRdt/details?locale=ja-JP&token=fXI13kOGJtjT_4gG&session=gvHjGKBLVE&clickid=-rYg5cJmYo5L&ref;2025-10-27 13:53:01;2025-10-27 13:53:01;'phishing','PayPay','フィッシング詐欺','ペイペイ145';53
-url;http://hxmyzs.cn/;2025-10-27 13:34:55;2025-10-27 13:34:55;'phishing','1','フィッシング詐欺','東京ガス','myTOKYOGAScc';53
-url;http://pydzxs.cn/;2025-10-27 13:29:49;2025-10-27 13:29:49;'phishing','フィッシング詐欺','メルカリ','mercari147';53
-url;http://o-r.kr;2025-10-25 18:44:14;2025-10-25 18:44:14;'';42
-ip;103.243.26.32;2025-10-30 18:19:56;2025-10-30 18:19:56;'';53
-ip;118.145.183.248;2025-10-30 16:22:55;2025-10-30 16:22:55;'';97
-ip;5.183.129.58;2025-10-30 09:04:05;2025-10-30 09:04:05;'';58
-ip;85.215.189.42;2025-10-30 07:42:40;2025-10-30 07:42:40;'';92
-ip;134.209.157.35;2025-10-30 05:33:34;2025-10-30 05:33:34;'';97
-ip;89.23.98.234;2025-10-30 01:48:33;2025-10-30 01:48:33;'';94
-ip;123.57.201.66;2025-10-30 01:39:33;2025-10-30 01:39:33;'';94
-ip;108.187.7.240;2025-10-30 01:10:03;2025-10-30 01:10:03;'ValleyRAT';57
-ip;176.65.139.19;2025-10-29 21:48:13;2025-10-29 21:48:13;'malware','cybersecurity','PureLogsStealer','PureLog49739';85
-ip;88.218.64.49;2025-10-29 15:44:01;2025-10-29 15:44:01;'';89
-ip;43.251.17.236;2025-10-29 15:30:24;2025-10-29 15:30:24;'';52
-ip;182.43.75.59;2025-10-29 12:50:14;2025-10-29 12:50:14;'';94
-ip;45.140.17.124;2025-10-26 02:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';86
-ip;81.12.40.251;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
-ip;188.166.41.88;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;14.18.37.109;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';80
-ip;167.71.69.222;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;122.192.33.39;2025-10-27 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';52
-ip;164.92.152.104;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';57
-ip;103.216.124.134;2025-10-13 02:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';41
-ip;47.83.203.183;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
-ip;154.221.22.203;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;101.126.66.228;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';42
-ip;81.192.46.36;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;45.135.232.92;2025-10-26 02:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';86
-ip;203.228.30.198;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;36.134.126.74;2025-10-26 02:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';52
-ip;14.103.111.167;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';80
-ip;221.156.137.103;2025-10-26 02:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';52
-ip;181.188.176.250;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';89
-ip;118.196.20.112;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;160.187.147.127;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;103.31.39.72;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-ip;212.233.136.201;2025-10-29 03:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
-ip;155.93.89.195;2025-10-12 02:00:00;2025-10-29 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
-sha256;8adba6942263049cf26774efefe827d1282cdab3003bc0eeae4f09affcab2cf0;2025-10-31 09:00:00;2025-10-31 09:00:00;'TROJAN_DOWNLOADER';80
-sha256;64913cbb86e7576f988cce7cf4c6b7e4e4ddb9a2aade70201811e6b2b506c968;2025-10-31 08:00:00;2025-10-31 08:00:00;'TROJAN_DOWNLOADER';80
-sha256;f9a1e370f3b00ea4fba2c772da0c84b343c84724fcca0c071ccc589d48eac504;2025-10-31 07:00:00;2025-10-31 07:00:00;'WORM';80
-sha256;c222741df3652e00f13172838a46fbf825a233e22fea0d1ce23525851fa64d70;2025-10-31 07:00:00;2025-10-31 07:00:00;'WORM';80
-sha256;6feeea1accc730facf808f318a3313f8b62cd9585e91480a351a0d53036c0ed5;2025-10-31 07:00:00;2025-10-31 07:00:00;'WORM';80
-sha256;a277f52fc99378abc9029db43bfac61f0ca32289ee1a7677cd44ef491cc0e031;2025-10-31 07:00:00;2025-10-31 07:00:00;'WORM';80
-sha256;c453f52c69510ba9f6c410630116937a7bf866a94a2dc90e057d7135c68e7968;2025-10-31 06:00:00;2025-10-31 06:00:00;'TROJAN';50
-sha256;1ce6206cbd42c63ae443e018bd6f088963c3a60da11364e2ea302740e3d09d31;2025-10-31 06:00:00;2025-10-31 06:00:00;'TROJAN';50
-sha256;6073c94bacd8df29ead213e69a236de530d111fc87f9d60f3ccd48dc68cd5923;2025-10-31 04:00:00;2025-10-31 04:00:00;'TROJAN_DOWNLOADER';80
-sha256;30973aac9d6cececf5f7e8f40253691de7dbd96f3211e385d278fe4e29c3c1b8;2025-10-31 04:00:00;2025-10-31 04:00:00;'WORM';80
-sha256;7f96e1b50d7e99cb19c3210d7322a6c577cd537e4b366c5161d2adfcce0f3869;2025-10-31 04:00:00;2025-10-31 04:00:00;'WORM';80
-sha256;16d9eeea2f983525e78ad88c9263dbd4c90a9cf70ecea5d29567152f4814363c;2025-10-31 04:00:00;2025-10-31 04:00:00;'WORM';80
-sha256;2be06bd2a4fd732c37e2a576c87608768d2241c23212ed3247c2881fc59e066b;2025-10-31 04:00:00;2025-10-31 04:00:00;'WORM';80
-sha256;75cf7e5a718206059c278d0c22d9abe798e0a0064807700bb918f1a8b7099c09;2025-10-31 04:00:00;2025-10-31 04:00:00;'TROJAN';80
-sha256;755f78af8c0970e1c01548e79b846cfac3be9653667cace9feaa576423c0e343;2025-10-31 04:00:00;2025-10-31 04:00:00;'WORM';80
-sha256;59f5b5288829ec0b111cdef175073209b0eb5e58014b8c5be854b44cd9831c1d;2025-10-31 04:00:00;2025-10-31 04:00:00;'TROJAN';80
-sha256;900b9e804661b6d24721081a2bd6a22b356d5aebb815e02f086cbc45edfddec6;2025-10-31 04:00:00;2025-10-31 04:00:00;'TROJAN_DOWNLOADER';80
-sha256;d10ee8daad9ad5b6a94ac480242380ac82a32216a220eec2fe7757b786df1a28;2025-10-31 03:00:00;2025-10-31 03:00:00;'WORM';80
-sha256;30ee76d6fb6fc7a3f4f0843afd8e3b45d96954ded958fa7a89431f2e528f1f3b;2025-10-31 03:00:00;2025-10-31 03:00:00;'WORM';80
-sha256;8db0cd1d0244de2a22f748c4d8fdac91f6850f1fef19bc7f2afe1d5cefb5b228;2025-10-31 03:00:00;2025-10-31 03:00:00;'BACKDOOR';80
-sha256;6645f2558907b4de6aaeff9bc5bf302d7203b25ea659498ab8220158756a6ed4;2025-10-31 03:00:00;2025-10-31 03:00:00;'ADWARE';40
-sha256;fb94e060b3129d360e4286a75d04dc396d3ffff274df3491ce429b05d7d24530;2025-10-31 03:00:00;2025-10-31 03:00:00;'TROJAN';80
-sha256;d73a5919bac4522cc528617f913426735560c738fdea851e9531523c184c08f9;2025-10-31 03:00:00;2025-10-31 03:00:00;'HACKTOOL';80
-sha256;9f37b53df7bfcd116795bc1bf9edee36b17dba17804b77cb92d864d02aa16059;2025-10-31 03:00:00;2025-10-31 03:00:00;'BACKDOOR';80
-sha256;20da71093221ca7d4b1e19f8bd67867d38d1abb469f8c9bd52fee87074f4be02;2025-10-31 03:00:00;2025-10-31 03:00:00;'TROJAN';80
-sha256;b12de14a65edbfc18314e52d96f7617e2052e10bfeaba15926efd80b2799d61d;2025-10-31 03:00:00;2025-10-31 03:00:00;'BACKDOOR';80
-sha256;8db80ae89970f0015240ade024337335c57250086cc43764daa2db0ce4e4582a;2025-10-31 03:00:00;2025-10-31 03:00:00;'TROJAN';80
-sha256;d00253a10c1fca61bf004cddcb2ded246bd885bdb1a62838113f4d4fd768ff8b;2025-10-31 03:00:00;2025-10-31 03:00:00;'TROJAN_PSW';80
-sha256;b64157973148048575e36f7e1f299a9798af81d6ff0635e949cf2295306a1fd8;2025-10-31 03:00:00;2025-10-31 03:00:00;'TROJAN';80
-sha256;c5a23805c082db80df7db4cbdcde1bb9b37dcc0a10c5dba0da3ac1403f5fc382;2025-10-31 03:00:00;2025-10-31 03:00:00;'WORM';80
-sha256;dc9f5844fb2d8009e9232781ffa2bf5db1391263edec2e3d9c4f5f29727137f6;2025-10-31 02:00:00;2025-10-31 02:00:00;'WORM';78
-sha256;c5c8245cb80081a6922990e2296bfb7ad78b015ab752fb6bdacfc592980072db;2025-10-31 02:00:00;2025-10-31 02:00:00;'TROJAN';78
-sha256;2b0f0e3ec9ce1b8faac52e0033fa54648d68a653043c46edea965e7742e8305b;2025-10-31 02:00:00;2025-10-31 02:00:00;'TROJAN';78
-sha256;af8e66972dc2b81d68583b66577259eab05fac6be2e3ce609316ee8834b3d5d0;2025-10-31 02:00:00;2025-10-31 02:00:00;'TROJAN';78
-sha256;b1032815b078aad59eb3bd32c29dee4621b37e516e679e84cb7d1c11c3eaff15;2025-10-31 02:00:00;2025-10-31 02:00:00;'TROJAN';78
+domain;clud-eplus.jp;2025-10-27 14:20:58;2025-10-27 14:20:58;'phishing','1','フィッシング詐欺','eplus100','イープラス';60
+domain;ryzgsj.cn;2025-10-27 14:11:56;2025-10-27 14:11:56;'phishing','フィッシング詐欺','JACCSカード','ジャックスカード58';73
+domain;my-ttbnumbercardpoint-soumu-gejp.chiguaw3.cyou;2025-10-27 14:05:47;2025-10-27 14:05:47;'phishing','1','フィッシング詐欺','マイナポイント','総務省cc';73
+domain;kdjzcl.cn;2025-10-27 13:53:01;2025-10-27 13:53:01;'phishing','PayPay','フィッシング詐欺','ペイペイ145';73
+domain;cveprws.cn;2025-10-27 13:47:31;2025-10-27 13:47:31;'phishing','1','フィッシング詐欺','トリップドットコム','Tripcc';73
+domain;hxmyzs.cn;2025-10-27 13:34:55;2025-10-27 13:34:55;'phishing','1','フィッシング詐欺','東京ガス','myTOKYOGAScc';82
+domain;pydzxs.cn;2025-10-27 13:29:49;2025-10-27 13:29:49;'phishing','フィッシング詐欺','メルカリ','mercari147';73
+domain;something0x.at;2025-10-26 15:06:43;2025-10-26 15:06:43;'osx','amos','odysseyAge';67
+domain;o-r.kr;2025-10-25 18:44:14;2025-10-25 18:44:14;'';45
+url;http://ryzgsj.cn/hK0JHlG/feedback/s5FAsMKY-q/K7AEq/rewards/jNIXdtys/profile/9-I1RG3/inbox/soffkRFH-C_nD/HYaP6Kh/orders?clickid=6MCK0VVdjHSw&id=9hn1Tl&token=-riXh4zXUapCbs4K&cart_id=W2b_AT2hS1;2025-10-27 14:11:56;2025-10-27 14:11:56;'phishing','フィッシング詐欺','JACCSカード','ジャックスカード58';52
+url;https://my-ttbnumbercardpoint-soumu-gejp.chiguaw3.cyou/Goole/2025-10-30/aaaa-sXtmHj;2025-10-27 14:05:47;2025-10-27 14:05:47;'phishing','1','フィッシング詐欺','マイナポイント','総務省cc';52
+url;http://kdjzcl.cn/XT47H41k/tracking/B3LYFf2wXg/UwHkANs/subscription/xroMF2Fy7v/xMV4w3/billing/n2E2LRJOH4B/rc7o_/login/k3ucWCm_UCyC/1kzhRdt/details?locale=ja-JP&token=fXI13kOGJtjT_4gG&session=gvHjGKBLVE&clickid=-rYg5cJmYo5L&ref;2025-10-27 13:53:01;2025-10-27 13:53:01;'phishing','PayPay','フィッシング詐欺','ペイペイ145';52
+url;http://hxmyzs.cn/;2025-10-27 13:34:55;2025-10-27 13:34:55;'phishing','1','フィッシング詐欺','東京ガス','myTOKYOGAScc';52
+url;http://pydzxs.cn/;2025-10-27 13:29:49;2025-10-27 13:29:49;'phishing','フィッシング詐欺','メルカリ','mercari147';52
+url;http://o-r.kr;2025-10-25 18:44:14;2025-10-25 18:44:14;'';41
+ip;128.14.227.179;2025-11-01 08:48:08;2025-11-01 08:48:08;'';100
+ip;45.148.10.246;2025-11-01 04:13:15;2025-11-01 04:13:15;'';95
+ip;91.202.233.10;2025-10-31 22:24:47;2025-10-31 22:24:47;'';68
+ip;109.252.163.126;2025-10-31 21:58:08;2025-10-31 21:58:08;'';68
+ip;158.247.220.229;2025-10-31 07:00:38;2025-10-31 07:00:38;'Kimsuky';58
+ip;141.164.63.16;2025-10-31 07:00:38;2025-10-31 07:00:38;'Kimsuky';58
+ip;103.243.26.32;2025-10-30 18:19:56;2025-10-30 18:19:56;'';52
+ip;118.145.183.248;2025-10-30 16:22:55;2025-10-30 16:22:55;'';94
+ip;5.183.129.58;2025-10-30 09:04:05;2025-10-30 09:04:05;'';57
+ip;85.215.189.42;2025-10-30 07:42:40;2025-10-30 07:42:40;'';89
+ip;134.209.157.35;2025-10-30 05:33:34;2025-10-30 05:33:34;'';94
+ip;146.190.239.119;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;191.242.105.131;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';89
+ip;178.178.127.114;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;193.151.151.179;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;106.75.239.166;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;173.212.228.217;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;118.213.136.182;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;209.38.101.45;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';47
+ip;123.139.218.0;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;36.228.203.247;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;217.88.114.243;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';52
+ip;47.239.246.31;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;188.166.84.197;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;92.185.99.40;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;89.216.92.113;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;62.60.234.135;2025-10-27 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';71
+ip;222.119.187.99;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;189.178.75.189;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;103.143.238.100;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';71
+ip;181.237.102.48;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';94
+ip;161.35.82.25;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';75
+ip;38.77.234.253;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+ip;62.234.21.209;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';85
+ip;65.49.1.231;2025-10-30 03:00:00;2025-10-30 03:00:00;'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity';66
+sha256;ae292cf77ee6c2fcdf84baa2632d6b4c1ef891953a1eb58ffcda0eeca06ae71a;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;f4cc0b6b4b25f06a378eeb7d0e3c764cc7f5b6f1644639a00f72a3fddcf47c76;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;a544fa8b34122876e3e0140c480c967aad0b26d84823ae6fdd1bc961e47d8b15;2025-11-01 09:00:00;2025-11-01 09:00:00;'TROJAN_DDOS';80
+sha256;987fcaadacdc03d1c99244a698676d2095621e53540fa0e37582e15b206cf30b;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;80287205fb74c258a105f02fef8368678597ba26c2327c9c00fd2d5368b714f1;2025-11-01 09:00:00;2025-11-01 09:00:00;'TROJAN_DOWNLOADER';80
+sha256;43c0bb55c2a13c2bf5ce2ea07e2f22da0c6d04a84d67700c1c1310fa916c9e2e;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;eff6dbdd2b851a8d7eafac524fb734dad553fc57f15b2f89fd8d11b40a5f322b;2025-11-01 09:00:00;2025-11-01 09:00:00;'TROJAN_DOWNLOADER';80
+sha256;977d5917e7f0c3e9cdd4d27ab35c8a28a2b059870c948c390f920804a6c85928;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;ece155b6d46ecd3eb0e158f605375dee252db72566d49db6ee3d724f73124462;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;9cf9c56f3752709e7601624512a7d53576aff926c950482a7b0824bb8b7f9bdd;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;7ad8f7f7b3c11be4dcb9bc6c995d24e03c137bd036fc0f42be43e02f7f837553;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;e6ec6e45276d77d17cab2c880001939e6fbed71b86168f648a676ac6c3452f94;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;418742d0e8d092f307b9225a83bd87c3fe3f3aea53b8beb2f5eac1e1c65088f9;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;fadbf1ea798c63e5fbc2af45db7b155d4d1cdb2f3e27d5858685752bc43a01f6;2025-11-01 09:00:00;2025-11-01 09:00:00;'TROJAN_DOWNLOADER';80
+sha256;efa7a7f165950378128f71f363e7751177eb52e0de8cac8967cb8fd6302d20d0;2025-11-01 09:00:00;2025-11-01 09:00:00;'TROJAN_DDOS';80
+sha256;9c86e39eb15884d38f2192861d1ff688d606130d387ab7e6998fa8def647cff0;2025-11-01 09:00:00;2025-11-01 09:00:00;'TROJAN';80
+sha256;cec45f6babf80c006e2092d6b2750cf13f324bfcaeab83ab3258c8337d267b1a;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;8764d29da56f569fad79bdadfb8c9d15491d91680fe82063def840c63e4074c1;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;aa209b26dfff0156c01cbe8a84171ea5f471c8cfca7bf386ca6d7333ddd5b588;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;bb99685ed4c6378f00c9d6b9dcde10c324118adb545618b8a341aa6edd90278c;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;37a091ce204d23d7465375a54ee37a6f22b863397d9e6475db07d404b0894063;2025-11-01 09:00:00;2025-11-01 09:00:00;'WORM';80
+sha256;77534247ac2ab1ebbdbf4250e4e72f9ebff9ba8f23c9c58adef8024fc934922d;2025-11-01 08:00:00;2025-11-01 08:00:00;'VIRUS';80
+sha256;b8a587dbc9c7df603590ad4a6b421139ae5267ee284fa814dd5799ce54ec3076;2025-11-01 08:00:00;2025-11-01 08:00:00;'WORM';80
+sha256;5a5a8ea05ccbc2cf33b2ffa7b09a725cabfa86bac080458f4f80a572bae83aec;2025-11-01 07:29:18;2025-11-01 07:29:18;'';60
+sha256;92697280e5f2f175cc9868e836803f3075fe284dcc8119dcfeba4cbc1778f9c6;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;dc99f12631ff2b28cab82074bc87d7e7106921c93ca03403a4975b210697978e;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;bbc38de2ea7a195aa4bb9e2c2c4d5336b6427433448f6513345f40b551f8e880;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;c88b92140bf19cfceac85c7d509939b4d2c65f1191b592805f9c6b745b1605a3;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;119df3d994ea01cccc3751df3a7e674eee90cb2d1dce492f1e027542e9a544eb;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;7d432e2fda0f2180d71d0ecab9f2228e6d05b7c298b6cc73b310fb38d5cf6cd6;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;7b81cbbefadd8ee560e99ec41a88b585852f37675e7ec213c15f9a2536e43167;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;a1caede42edf95bfaa64046065a4def1a4cb091a9f5b7863f6cfe4ff3f975de2;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;c992b16ef8cb31fb7998cff5c7d1ce665830d4b6cdae11c48d6758fdb1f26690;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;619643c59eae861259bcb46e648b32e2df5f59e9dd51b8e7fe290786ac8d3b4e;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
+sha256;a9797bf5de249b11f321f90531f6141c45ebc65b06adc385c6f48350717ae7f7;2025-11-01 07:00:00;2025-11-01 07:00:00;'WORM';80
