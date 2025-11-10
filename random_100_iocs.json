@@ -1,11 +1,19 @@
 [
     {
         "ioctype":"domain",
+        "ioc":"azuuebxvcwvcvsddfazerroiklhfvbnc.cfolks.pl",
+        "first_seen":1762622405000,
+        "last_seen":1762622405000,
+        "tags":"'phishing','CyberSecurity','InfoSharing','ThreatIntelligence','Aruba'",
+        "CyberArt_score":52
+    },
+    {
+        "ioctype":"domain",
         "ioc":"mailcbmgovmm.pages.dev",
         "first_seen":1762599393000,
         "last_seen":1762599393000,
         "tags":"'APT','Sidewinder','Myanmar'",
-        "CyberArt_score":53
+        "CyberArt_score":52
     },
     {
         "ioctype":"domain",
@@ -13,7 +21,15 @@
         "first_seen":1762599393000,
         "last_seen":1762599393000,
         "tags":"'APT','Sidewinder','Myanmar'",
-        "CyberArt_score":78
+        "CyberArt_score":75
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"agenziaentrate-criptovalute.com",
+        "first_seen":1762556405000,
+        "last_seen":1762556405000,
+        "tags":"'phishing','CyberSecurity','InfoSharing','ThreatIntelligence','AgenziaEntrate'",
+        "CyberArt_score":46
     },
     {
         "ioctype":"domain",
@@ -21,7 +37,7 @@
         "first_seen":1762467605000,
         "last_seen":1762467605000,
         "tags":"'phishing','CyberSecurity','InfoSharing','ThreatIntelligence','Aruba'",
-        "CyberArt_score":50
+        "CyberArt_score":49
     },
     {
         "ioctype":"domain",
@@ -29,7 +45,7 @@
         "first_seen":1762435633000,
         "last_seen":1762435633000,
         "tags":"''",
-        "CyberArt_score":46
+        "CyberArt_score":44
     },
     {
         "ioctype":"domain",
@@ -37,7 +53,7 @@
         "first_seen":1762428341000,
         "last_seen":1762428341000,
         "tags":"'1','\u8a50\u6b3a','\u697d\u5929\u8a3c\u523895'",
-        "CyberArt_score":78
+        "CyberArt_score":75
     },
     {
         "ioctype":"domain",
@@ -45,7 +61,7 @@
         "first_seen":1762427962000,
         "last_seen":1762427962000,
         "tags":"'phishing','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','Amazon194'",
-        "CyberArt_score":78
+        "CyberArt_score":75
     },
     {
         "ioctype":"domain",
@@ -53,7 +69,7 @@
         "first_seen":1762427777000,
         "last_seen":1762427777000,
         "tags":"'phishing','2','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','Amazoncc'",
-        "CyberArt_score":78
+        "CyberArt_score":75
     },
     {
         "ioctype":"domain",
@@ -61,7 +77,7 @@
         "first_seen":1762426308000,
         "last_seen":1762426308000,
         "tags":"'phishing','1','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','\u30de\u30b9\u30bf\u30fc\u30ab\u30fc\u30c9','Mastercardcc'",
-        "CyberArt_score":78
+        "CyberArt_score":75
     },
     {
         "ioctype":"domain",
@@ -69,7 +85,7 @@
         "first_seen":1762425628000,
         "last_seen":1762425628000,
         "tags":"'phishing','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','\u30dd\u30b1\u30c3\u30c8\u30ab\u30fc\u30c9','pocketcard42'",
-        "CyberArt_score":50
+        "CyberArt_score":49
     },
     {
         "ioctype":"domain",
@@ -77,7 +93,7 @@
         "first_seen":1762425127000,
         "last_seen":1762425127000,
         "tags":"'phishing','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a','\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc162','\u4efb\u5929\u5802'",
-        "CyberArt_score":78
+        "CyberArt_score":75
     },
     {
         "ioctype":"domain",
@@ -85,7 +101,7 @@
         "first_seen":1762420532000,
         "last_seen":1762420532000,
         "tags":"'CastleLoader'",
-        "CyberArt_score":46
+        "CyberArt_score":44
     },
     {
         "ioctype":"domain",
@@ -93,7 +109,7 @@
         "first_seen":1762390180000,
         "last_seen":1762390180000,
         "tags":"''",
-        "CyberArt_score":44
+        "CyberArt_score":43
     },
     {
         "ioctype":"domain",
@@ -101,7 +117,7 @@
         "first_seen":1762373049000,
         "last_seen":1762373049000,
         "tags":"'rmsrat'",
-        "CyberArt_score":44
+        "CyberArt_score":43
     },
     {
         "ioctype":"domain",
@@ -109,7 +125,7 @@
         "first_seen":1762367268000,
         "last_seen":1762367268000,
         "tags":"''",
-        "CyberArt_score":58
+        "CyberArt_score":56
     },
     {
         "ioctype":"domain",
@@ -117,7 +133,7 @@
         "first_seen":1762367268000,
         "last_seen":1762367268000,
         "tags":"''",
-        "CyberArt_score":44
+        "CyberArt_score":43
     },
     {
         "ioctype":"domain",
@@ -125,7 +141,7 @@
         "first_seen":1762367268000,
         "last_seen":1762367268000,
         "tags":"''",
-        "CyberArt_score":84
+        "CyberArt_score":82
     },
     {
         "ioctype":"domain",
@@ -133,7 +149,7 @@
         "first_seen":1762352784000,
         "last_seen":1762352784000,
         "tags":"'phishing','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a153'",
-        "CyberArt_score":49
+        "CyberArt_score":47
     },
     {
         "ioctype":"domain",
@@ -141,7 +157,7 @@
         "first_seen":1762260701000,
         "last_seen":1762260701000,
         "tags":"'phishing','1','\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u8a50\u6b3a123'",
-        "CyberArt_score":56
+        "CyberArt_score":54
     },
     {
         "ioctype":"url",
@@ -149,7 +165,7 @@
         "first_seen":1762563600000,
         "last_seen":1762563600000,
         "tags":"'BACKDOOR'",
-        "CyberArt_score":75
+        "CyberArt_score":73
     },
     {
         "ioctype":"url",
@@ -157,7 +173,119 @@
         "first_seen":1762367268000,
         "last_seen":1762367268000,
         "tags":"''",
-        "CyberArt_score":53
+        "CyberArt_score":52
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"112.121.183.38",
+        "first_seen":1762750873000,
+        "last_seen":1762750873000,
+        "tags":"''",
+        "CyberArt_score":45
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"62.60.226.79",
+        "first_seen":1762736931000,
+        "last_seen":1762736931000,
+        "tags":"'Rhadamanthys'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"83.147.245.110",
+        "first_seen":1762731919000,
+        "last_seen":1762731919000,
+        "tags":"'c2','Sliver','unverified53'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"158.220.115.215",
+        "first_seen":1762716781000,
+        "last_seen":1762716781000,
+        "tags":"''",
+        "CyberArt_score":97
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"83.147.18.16",
+        "first_seen":1762708015000,
+        "last_seen":1762708015000,
+        "tags":"'C2','metasploit199'",
+        "CyberArt_score":58
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"120.76.158.8",
+        "first_seen":1762705727000,
+        "last_seen":1762705727000,
+        "tags":"'C2','cobaltstrike81'",
+        "CyberArt_score":87
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"101.132.71.240",
+        "first_seen":1762705713000,
+        "last_seen":1762705713000,
+        "tags":"'C2','cobaltstrike92'",
+        "CyberArt_score":63
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"113.45.205.53",
+        "first_seen":1762703606000,
+        "last_seen":1762703606000,
+        "tags":"'C2','cobaltstrike1106'",
+        "CyberArt_score":58
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"1.13.175.24",
+        "first_seen":1762703598000,
+        "last_seen":1762703598000,
+        "tags":"'C2','cobaltstrike199'",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"91.92.243.2",
+        "first_seen":1762688967000,
+        "last_seen":1762688967000,
+        "tags":"'c2','Pyramid','unverified116'",
+        "CyberArt_score":87
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"91.92.243.87",
+        "first_seen":1762688965000,
+        "last_seen":1762688965000,
+        "tags":"'c2','Pyramid','unverified138'",
+        "CyberArt_score":58
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"54.92.90.78",
+        "first_seen":1762688879000,
+        "last_seen":1762688879000,
+        "tags":"'c2','NetSupportRAT','unverified98'",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"92.205.187.34",
+        "first_seen":1762688871000,
+        "last_seen":1762688871000,
+        "tags":"'c2','AsyncRAT','unverified116'",
+        "CyberArt_score":92
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"93.144.224.162",
+        "first_seen":1762688868000,
+        "last_seen":1762688868000,
+        "tags":"'c2','unverified94','AsyncRAT'",
+        "CyberArt_score":68
     },
     {
         "ioctype":"ip",
@@ -165,7 +293,7 @@
         "first_seen":1762602462000,
         "last_seen":1762602462000,
         "tags":"'c2','AsyncRAT','unverified108'",
-        "CyberArt_score":97
+        "CyberArt_score":94
     },
     {
         "ioctype":"ip",
@@ -173,7 +301,7 @@
         "first_seen":1762602460000,
         "last_seen":1762602460000,
         "tags":"'c2','unverified94','AsyncRAT'",
-        "CyberArt_score":63
+        "CyberArt_score":61
     },
     {
         "ioctype":"ip",
@@ -181,542 +309,430 @@
         "first_seen":1762600987000,
         "last_seen":1762600987000,
         "tags":"''",
-        "CyberArt_score":97
+        "CyberArt_score":94
     },
     {
         "ioctype":"ip",
-        "ioc":"157.20.32.133",
-        "first_seen":1762542650000,
-        "last_seen":1762542650000,
-        "tags":"''",
-        "CyberArt_score":52
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"105.159.140.215",
-        "first_seen":1762516123000,
-        "last_seen":1762516123000,
-        "tags":"'c2','NetSupportRAT','unverified89'",
-        "CyberArt_score":75
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"83.136.211.176",
-        "first_seen":1762516104000,
-        "last_seen":1762516104000,
-        "tags":"'c2','AsyncRAT','unverified96'",
-        "CyberArt_score":52
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"195.133.1.232",
-        "first_seen":1762509321000,
-        "last_seen":1762509321000,
-        "tags":"''",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"182.150.103.54",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"45.78.219.121",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"170.64.169.230",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":66
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"91.108.226.144",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"45.78.194.246",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"8.210.116.240",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"129.212.190.106",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"14.103.123.232",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"152.32.252.65",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":89
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"45.78.219.97",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"200.7.101.139",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":75
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"209.38.84.89",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"45.78.198.228",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"34.93.128.179",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"68.183.86.152",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"45.78.217.219",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"218.78.132.164",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":89
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"41.82.40.251",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"154.83.15.123",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":75
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"47.76.140.48",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"34.40.125.170",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":85
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"222.73.51.231",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"38.96.255.100",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
-        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":75
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"181.46.131.55",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
+        "ioc":"190.129.114.196",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":94
     },
     {
         "ioctype":"ip",
-        "ioc":"180.76.104.44",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
+        "ioc":"51.158.120.121",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"111.172.5.138",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"101.47.163.173",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"46.101.206.166",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"160.30.172.107",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":61
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"14.103.114.17",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":85
     },
     {
         "ioctype":"ip",
-        "ioc":"167.71.12.125",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
+        "ioc":"113.240.114.164",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
-        "CyberArt_score":47
+        "CyberArt_score":94
     },
     {
         "ioctype":"ip",
-        "ioc":"143.198.81.60",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
+        "ioc":"161.132.4.135",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"103.49.238.104",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"171.231.193.207",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":85
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"140.206.83.106",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":75
     },
     {
         "ioctype":"ip",
-        "ioc":"129.212.176.59",
-        "first_seen":1762484400000,
-        "last_seen":1762484400000,
+        "ioc":"209.141.41.212",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"103.226.139.139",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"101.47.143.200",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"101.36.122.23",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"81.215.228.18",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
         "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
         "CyberArt_score":85
     },
     {
+        "ioctype":"ip",
+        "ioc":"14.29.198.130",
+        "first_seen":1762570800000,
+        "last_seen":1762570800000,
+        "tags":"'Bruteforce Host','lockheed-martin-cyber-kill-chain','malicious-activity'",
+        "CyberArt_score":94
+    },
+    {
         "ioctype":"sha256",
-        "ioc":"34f25a9200324897a978f22f543ea03f06c11e852da4d27ad208da9f914c60f2",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
+        "ioc":"b2b9e06249eca4b3378f0fcc6b2dbf3fe279f8d2e803f053a406c1de4145623d",
+        "first_seen":1762765200000,
+        "last_seen":1762765200000,
+        "tags":"'RISKTOOL'",
+        "CyberArt_score":40
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"8d9d28835929c45ec67d20204c8bb2e1d16db52c04b909ebbcd25cb2df9051a7",
+        "first_seen":1762761600000,
+        "last_seen":1762761600000,
+        "tags":"'BACKDOOR'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"179824df02415e8a9df6eb698eef68c61827b95cfc254f86b57afdaa37b8955f",
+        "first_seen":1762761600000,
+        "last_seen":1762761600000,
+        "tags":"'RISKTOOL'",
+        "CyberArt_score":40
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"22e77306410ac51a90ba5dafb8b875a80d7b34f0e918a8c60ef39450bfb06776",
+        "first_seen":1762758000000,
+        "last_seen":1762758000000,
+        "tags":"'RISKTOOL'",
+        "CyberArt_score":40
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"72a02bf8fa97c9015f6cfc5142ff682e7d074de3dfa0416f4f39426656100fae",
+        "first_seen":1762758000000,
+        "last_seen":1762758000000,
         "tags":"'WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"2686aee1edafaf93d236d8ae1a32f49cef8e34ccabab06ff5c0ab8fb58a0dffe",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'TROJAN'",
+        "ioc":"e68e2cde02efea3eeaff3125e510ce5fba502d918e379ba0a1ed8f808079dc0d",
+        "first_seen":1762754400000,
+        "last_seen":1762754400000,
+        "tags":"'TROJAN_PSW'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"6677a0194c095e6e649c3289f979c23ed9f81b1ab72371d01dd99076b988dbd0",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'TROJAN'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"6cd91e8f07e185d406e442572811531dfa2480e030fae3e3c707981474bd9c15",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
+        "ioc":"7d1814f72016293f5f6ea501c3f488a40f296127d7c17235694840b3652641d9",
+        "first_seen":1762747200000,
+        "last_seen":1762747200000,
         "tags":"'WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"6ad4f96f7120073baefff3f599ea4c7ea74868c0acf81d439e2aa774f5b1c328",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"364de0d95e47036ac3bef19c19508a5a529db86c4e99b4849721efb6b2b51e47",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"b62f61ff3db716859ea6e47971a99c90579cf2dc347ac00417d34ceadaa0bd8a",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"f9e26724a13c13893ff2f59489d2ae26e99f539f177a59aff3f6141966e7515a",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"389226f1f73881a836c5e16ceb5911524e367a1cc98e08a8a282336e70001354",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"4f07308397e83c948418570f62ec70d811e1947424398b245578dc11a40f339b",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"f887fd162d877d85fb975c83af0d1f70aa03a5fae61e08a6f2e0f9ae5c5c273d",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"3985b27e6263b77ac99a405fd40d7687af46893a118e9574def83f94050dde3d",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"a0e8dee32ca93ba9721fea42e5e20c88b5f316d34c971961afe9e8ecf99165fd",
-        "first_seen":1762678800000,
-        "last_seen":1762678800000,
-        "tags":"'TROJAN'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"88d0ddbe221802b8e94b002f0f9884711ff0098409bf9ee8b58056b4b1a6ccfa",
-        "first_seen":1762675200000,
-        "last_seen":1762675200000,
-        "tags":"'TROJAN'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"b7470f07cace85a6065df567f94356520e644e537b46ab7af1a0f0f3b1d96ca6",
-        "first_seen":1762671600000,
-        "last_seen":1762671600000,
+        "ioc":"eef2a53dd70578b8a081b07d1631151da39274fd382803c9703fdcce9e86fa3a",
+        "first_seen":1762747200000,
+        "last_seen":1762747200000,
         "tags":"'TROJAN_DROPPER'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"e9139339a4538b4944d6fecfaf50cff3fd9b25085b099e8dc1f80e0cd878ccaa",
-        "first_seen":1762671600000,
-        "last_seen":1762671600000,
+        "ioc":"53999e67045d366b18c6e32c1ea8f2d8f5455ffda704f50a8f7e028a90749b63",
+        "first_seen":1762747200000,
+        "last_seen":1762747200000,
         "tags":"'WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"300072795259e7b2baa69a7a3d19ffea1844dffc391e710c654aa1b66b0e2197",
-        "first_seen":1762671600000,
-        "last_seen":1762671600000,
-        "tags":"'TROJAN_DROPPER'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"51890bfc6f223014ff16f4bfa6ace8e2d2ec3c81eb6965406813b9ca32b08508",
-        "first_seen":1762671600000,
-        "last_seen":1762671600000,
-        "tags":"'TROJAN_DROPPER'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"0edcbf7bb6b4b62b3639853627fae1129c58989df01702fe1bede75346cec8f8",
-        "first_seen":1762671600000,
-        "last_seen":1762671600000,
+        "ioc":"a93b85aa7700f7154a5955c9217d90650c0b5a2a229fb6b7d06cf9d8165e8d7a",
+        "first_seen":1762747200000,
+        "last_seen":1762747200000,
         "tags":"'WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"5e84212896be25f411d5185406286fe5ee898afe757623a6acbf736c20c3e838",
-        "first_seen":1762668000000,
-        "last_seen":1762668000000,
+        "ioc":"a4d1dec0368064ea09f5aa0a732e25bfe448885de40169f820c7bd1e191e8d2c",
+        "first_seen":1762747200000,
+        "last_seen":1762747200000,
+        "tags":"'WORM'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"cebf0476ef1970c64e795d5afa480a9aeb7b96104bde11c5fc77fcc85a7d60eb",
+        "first_seen":1762740000000,
+        "last_seen":1762740000000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"5a2d4c52ba5d6f3ef417c8def9b9c8829e4fca7fd8619103af6228c3bdd308f4",
+        "first_seen":1762740000000,
+        "last_seen":1762740000000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"90b6e27eecfac541b1aec8f67f5f24a0dea68bdd0a66474abd5f504a074388f5",
+        "first_seen":1762740000000,
+        "last_seen":1762740000000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"0de86e0e38b477f791770399445539c8b9a91eaa00fa5408e052ab245d3561dc",
+        "first_seen":1762740000000,
+        "last_seen":1762740000000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"a67ecf57ba83fc79184f246f6b568464c620dd7ce8fdecda37249de0d176c4c8",
+        "first_seen":1762740000000,
+        "last_seen":1762740000000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"be789993559624b258544d617b5cb56555f354569e3a7e2d88f60237f42c14ba",
+        "first_seen":1762740000000,
+        "last_seen":1762740000000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"71cab506af00a68cd056fedc01cd4e6743df024c949ab96e346195ea37c21529",
+        "first_seen":1762729200000,
+        "last_seen":1762736931000,
+        "tags":"'Rhadamanthys', 'TROJAN_DROPPER'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"dd12cb47aae0d70f084f7fe3c6c58a1e417cf8431af5a637473f970bbcd04fe9",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'TROJAN_PSW'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"026ff096923b2100eb71148441197f6598ec5411d87776afcae5ed91089a176b",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'TROJAN'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"c4c8b21d07ee92524571daeccd9f0d861d3d62b3a49a9339255066709a095aae",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
         "tags":"'HACKTOOL'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"sha256",
-        "ioc":"2da34dc801362d3d580cd01bf24dd1680ef4f95f933396163782fd8b3c6dbf41",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"e15bf8de480256278572093cd57df3a490ecb743a5acbe78a0a8648f4dcdb388",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"e4c104d5118d215f01a97767753d97f7ce5e5a87b879fd8cc6f4d848bf578fb6",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"64ecf21b966ea96ee14d27f2bfb200532f91d5cff6ae5a20ef005a027aa7198b",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
         "tags":"'TROJAN'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"sha256",
-        "ioc":"2664925cea3aa4dea482f6365ab68adc74392e525df7f6e13f37d571fbe1b4f9",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"43a9bf11c074c049b483a292f9762e074308ccb549c36ed7de03ee503ee159fe",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
         "tags":"'WORM'",
-        "CyberArt_score":80
+        "CyberArt_score":49
     },
     {
         "ioctype":"sha256",
-        "ioc":"e8c91638409b76b7f41744c1737964cd35075f9bab37f0cde9937de154fd7b2c",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"e480735dfd68da18ac627d599b7680973bb4962efb1ade850bd149d6239e98fa",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'BACKDOOR'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"e33d99b098ab4024c433cb374c2b28ebd40b2fac1d74541516958dc7ce354d07",
+        "first_seen":1762737445000,
+        "last_seen":1762729200000,
+        "tags":"'TROJAN', ",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"41c1346afc5bd376fb0132a236647a5b94c4eedc943ad40a8d4aee1a20f3e268",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'BACKDOOR'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"b2399c31bbf662df6ed5ce34b2e31912701911d39cf4bb0fc609be5cf35c92e9",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'BACKDOOR'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"8301958fc51814aab02026b6cb4080d37231eb65d1fe3fc33e08fb08ac25d4a6",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'TROJAN_PSW'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"5db29cf49739028ccefae208a6f98e5a68421610be678b814df76e83f73b7f9e",
+        "first_seen":1762729200000,
+        "last_seen":1762729200000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"899503c8ea80afdb25bec3dee3527a3d23b3399e30fd84b2d43bf15eecd867c2",
+        "first_seen":1762725600000,
+        "last_seen":1762725600000,
+        "tags":"'WORM'",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"1830697ccda591cba76a27f1d292b62aca1f2d9b02de8b0dab34cbcfb80afee9",
+        "first_seen":1762725600000,
+        "last_seen":1762725600000,
         "tags":"'TROJAN'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"sha256",
-        "ioc":"2f5c8733380c0b9b31dbc394623f23c31a45338f42458a7db13e9cd0b398fd1c",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'TROJAN_DOWNLOADER'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"3bbde990012d01dcfd722d4eab5df15ed34cba4deb342c0e5b291234a58aed27",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"dc429fb2adf667330b96b8baa54ad0f9dc6de16c527d4de8135087107cc37c12",
+        "first_seen":1762725600000,
+        "last_seen":1762725600000,
         "tags":"'WORM'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"sha256",
-        "ioc":"748500d369c00c452eeb1ab91e30eefb24ef74b835da58387632fca914524c1e",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"61ae0cbae9991c012f36e341e914df42b6bda20b9a48925a2f0092892f7e15a8",
+        "first_seen":1762725600000,
+        "last_seen":1762725600000,
         "tags":"'WORM'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"sha256",
-        "ioc":"ec6765ae17eb185a21f91bb599e89220b1219ab598ee33d7f726a084a28001ae",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"e2c421ca15d2d5102effd268f3b00331d64ef5fad99cdd7d33adc9f0f56cafb3",
+        "first_seen":1762725600000,
+        "last_seen":1762725600000,
         "tags":"'WORM'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"sha256",
-        "ioc":"b3ca9890c518a29cc09ff6859a8b51e2631243c04a708c1c5746d0967a8fdedd",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'TROJAN_DOWNLOADER'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"ef5ed60f6e568fdda76172d60c67e3a44b32d511582e1d35b58615ce12ed848a",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
+        "ioc":"fbc4daab8696069cfd56d452d99615d8b1f2651bf295a81b9d29402afb437bef",
+        "first_seen":1762725600000,
+        "last_seen":1762725600000,
         "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"b099477b5d41e0408582a8a503ba53101ae857669939640e3c5fdf90bdebe56a",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"e0a3c9b38d2d1c0fd90fee34986c07d2c2ae613d06f7ac76acd78fafa89eebef",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"3493c55f264ab91a83c7c69393952ba7efb86c29705adc59ddf1521700d23234",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"40691fd1425d76a849713cafc938a707a2b4bc82f6ec84526a47e60886b4bc69",
-        "first_seen":1762664400000,
-        "last_seen":1762664400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     }
 ]
