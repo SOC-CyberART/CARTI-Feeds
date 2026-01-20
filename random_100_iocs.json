@@ -1,19 +1,219 @@
 [
     {
         "ioctype":"domain",
+        "ioc":"updatechecker.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"cryptoenjoyers.anondns.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":63
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"russiatimes.info",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"marketru.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"technoguides.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":63
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"rustbot.anondns.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":45
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"rostvgroup.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"rzhd.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"processmanagerpro.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"luxoftinfo.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"roskomnadz.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"telehraf.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"statusupport.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"flashsupport.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":63
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"rosatomgroup.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"gimnazija.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"billet-ru.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"dontblockme.anondns.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":45
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"mskreg.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"securemodem.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"cityru-travel.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"multipackage.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"perfectfinder.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"information-model.net",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"transferpolicy.org",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"solid-logit.com",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
         "ioc":"weaplink.com",
         "first_seen":1768615830000,
         "last_seen":1768615830000,
         "tags":"''",
-        "CyberArt_score":73
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"pub-2149a070e76f4ccabd67228f754768dc.r2.dev",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":50
+        "CyberArt_score":71
     },
     {
         "ioctype":"domain",
@@ -21,199 +221,15 @@
         "first_seen":1768584381000,
         "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":59
+        "CyberArt_score":58
     },
     {
         "ioctype":"domain",
-        "ioc":"dwnld.cc",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
+        "ioc":"pub-2149a070e76f4ccabd67228f754768dc.r2.dev",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"information-model.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"tr.earn.top",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":46
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"rostvgroup.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"solid-logit.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"keep.camdvr.org",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"luxoftinfo.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"roskomnadz.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"telehraf.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"statusupport.org",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"technoguides.org",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":54
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"rosatomgroup.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"gimnazija.org",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"billet-ru.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"svet-audit.com",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"mskreg.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"securemodem.com",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"marketru.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"multipackage.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"lmsoft.dev",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"mail.miniorangeman.com",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"russiatimes.info",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"miniorangeman.com",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":79
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"rex-technolagie.com",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":54
+        "CyberArt_score":49
     },
     {
         "ioctype":"domain",
@@ -221,351 +237,127 @@
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":46
+        "CyberArt_score":45
     },
     {
         "ioctype":"domain",
-        "ioc":"updatechecker.org",
-        "first_seen":1768313770000,
+        "ioc":"rex-technolagie.com",
+        "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":53
     },
     {
         "ioctype":"domain",
-        "ioc":"cityru-travel.org",
-        "first_seen":1768313770000,
+        "ioc":"miniorangeman.com",
+        "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":77
     },
     {
         "ioctype":"domain",
-        "ioc":"transferpolicy.org",
-        "first_seen":1768313770000,
+        "ioc":"mail.miniorangeman.com",
+        "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":57
     },
     {
         "ioctype":"domain",
-        "ioc":"cryptoenjoyers.anondns.net",
+        "ioc":"lmsoft.dev",
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":54
+        "CyberArt_score":65
     },
     {
         "ioctype":"domain",
-        "ioc":"perfectfinder.net",
-        "first_seen":1768313770000,
+        "ioc":"svet-audit.com",
+        "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"dontblockme.anondns.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":46
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"processmanagerpro.net",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/weaplink.com",
-        "first_seen":1768615830000,
-        "last_seen":1768615830000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/pub-959ff112c2eb41ce8f7b24e38c9b4f94.r2.dev\/Google-Captcha-Continue-Latest-J-KL-3.html",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/chatgptitalia.net\/",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/185.141.216.127\/tr.e",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.221.64.245\/mot\/",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/104.164.55.7\/231\/means.d",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/pub-2149a070e76f4ccabd67228f754768dc.r2.dev\/I-Google-Captcha-Continue-Latest-27-L-1.html",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/dn710107.ca.archive.org\/0\/items\/msi-pro-with-b-64_20251208_1511\/MSI_PRO_with_b64.png",
-        "first_seen":1768317768000,
-        "last_seen":1768317768000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/stoaccinfoniqaveeambkp.blob.core.windows.net\/veeam",
-        "first_seen":1768317768000,
-        "last_seen":1768317768000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.76.155.14\/vim",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.powerpc",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.134.174.235:443\/a2.sh",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/38.165.44.205\/k",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.mipsel",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/89.144.31.18\/nuts\/x86",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.134.174.235:443\/2.sh",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/68.142.129.4:8277\/download\/c.sh",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.aqu.sh",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.armv4l",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.32.158.54\/5e51aff54626ef7f\/x86_64",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/176.117.107.154\/bot",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/teacoffeepremix.in\/arquivo_20251209173358.txt",
-        "first_seen":1768317768000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/23.132.164.54\/bot",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/fast-eda.my\/dostavka\/lavka\/kategorii\/zakuski\/sushi\/sety\/skidki\/regiony\/msk\/birylievo",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":67
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/193.34.213.150\/nuts\/x86",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/31.56.27.97\/scripts\/4thepool_miner.sh",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.armv5l",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/154.89.152.240\/a_x86",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/dwnld.cc\/rc",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/51.81.104.115\/nuts\/x86",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/59.7.217.245:7070\/app2",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/154.89.152.240\/a_x64",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.sh4",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/gist.githubusercontent.com\/demonic-agents\/39e943f4de855e2aef12f34324cbf150\/raw\/e767e1cef1c35738689ba4df9c6f7f29a6afba1a\/setup_c3pool_miner.sh",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":50
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/41.231.37.153\/rondo.m68k",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
+        "CyberArt_score":41
     },
     {
         "ioctype":"ip",
-        "ioc":"85.174.198.81",
-        "first_seen":1768825271000,
-        "last_seen":1768825271000,
+        "ioc":"68.155.153.238",
+        "first_seen":1768873172000,
+        "last_seen":1768873172000,
         "tags":"''",
-        "CyberArt_score":40
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"45.134.174.235",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"154.89.152.247",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"154.89.152.151",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"154.89.152.240",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"154.89.152.168",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"207.56.138.28",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"156.67.24.239",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"193.24.123.68",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":81
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"91.215.85.42",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":63
     },
     {
         "ioctype":"ip",
@@ -573,15 +365,7 @@
         "first_seen":1768815725000,
         "last_seen":1768815725000,
         "tags":"''",
-        "CyberArt_score":100
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"176.113.115.97",
-        "first_seen":1768584381000,
-        "last_seen":1768584381000,
-        "tags":"''",
-        "CyberArt_score":46
+        "CyberArt_score":97
     },
     {
         "ioctype":"ip",
@@ -589,7 +373,7 @@
         "first_seen":1768584381000,
         "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":46
+        "CyberArt_score":44
     },
     {
         "ioctype":"ip",
@@ -597,7 +381,7 @@
         "first_seen":1768584381000,
         "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":64
+        "CyberArt_score":62
     },
     {
         "ioctype":"ip",
@@ -605,7 +389,15 @@
         "first_seen":1768584381000,
         "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":82
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"176.113.115.97",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":44
     },
     {
         "ioctype":"ip",
@@ -613,7 +405,7 @@
         "first_seen":1768584381000,
         "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":46
+        "CyberArt_score":44
     },
     {
         "ioctype":"ip",
@@ -621,7 +413,7 @@
         "first_seen":1768584381000,
         "last_seen":1768584381000,
         "tags":"''",
-        "CyberArt_score":46
+        "CyberArt_score":44
     },
     {
         "ioctype":"ip",
@@ -629,7 +421,7 @@
         "first_seen":1768423168000,
         "last_seen":1768423168000,
         "tags":"''",
-        "CyberArt_score":47
+        "CyberArt_score":46
     },
     {
         "ioctype":"ip",
@@ -637,63 +429,7 @@
         "first_seen":1768394044000,
         "last_seen":1768394044000,
         "tags":"''",
-        "CyberArt_score":47
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"91.215.85.42",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":54
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"213.209.157.78",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":50
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"194.14.217.146",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"23.226.71.200",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"128.199.194.97",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":50
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"156.67.24.239",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":50
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"185.247.224.41",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":59
+        "CyberArt_score":46
     },
     {
         "ioctype":"ip",
@@ -701,7 +437,7 @@
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":41
     },
     {
         "ioctype":"ip",
@@ -709,31 +445,15 @@
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":41
     },
     {
         "ioctype":"ip",
-        "ioc":"45.134.174.235",
+        "ioc":"185.247.224.41",
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"185.91.127.62",
-        "first_seen":1768317767000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"193.24.123.68",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":84
+        "CyberArt_score":57
     },
     {
         "ioctype":"ip",
@@ -741,31 +461,23 @@
         "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":41
     },
     {
         "ioctype":"ip",
-        "ioc":"207.56.138.28",
+        "ioc":"128.199.194.97",
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":50
+        "CyberArt_score":49
     },
     {
         "ioctype":"ip",
-        "ioc":"49.51.230.175",
+        "ioc":"23.226.71.200",
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"154.89.152.168",
-        "first_seen":1768313770000,
-        "last_seen":1768313770000,
-        "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":41
     },
     {
         "ioctype":"ip",
@@ -773,7 +485,7 @@
         "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":67
+        "CyberArt_score":65
     },
     {
         "ioctype":"ip",
@@ -781,7 +493,7 @@
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":41
     },
     {
         "ioctype":"ip",
@@ -789,14 +501,302 @@
         "first_seen":1768317767000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":50
+        "CyberArt_score":49
     },
     {
         "ioctype":"ip",
-        "ioc":"154.89.152.247",
+        "ioc":"194.14.217.146",
+        "first_seen":1768317767000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":41
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"176.117.107.154",
         "first_seen":1768313770000,
         "last_seen":1768313770000,
         "tags":"''",
-        "CyberArt_score":42
+        "CyberArt_score":65
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"185.91.127.62",
+        "first_seen":1768317767000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":41
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"213.209.157.78",
+        "first_seen":1768317767000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"49.51.230.175",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":41
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"206.189.69.67",
+        "first_seen":1768289942000,
+        "last_seen":1768289942000,
+        "tags":"''",
+        "CyberArt_score":53
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"45.56.69.194",
+        "first_seen":1768289402000,
+        "last_seen":1768289402000,
+        "tags":"''",
+        "CyberArt_score":81
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/193.24.123.68:3001\/gfdsgsdfhfsd_ghsfdgsfdgsdfg.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/91.215.85.42:3000",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.134.174.235:443\/a3.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/109.238.92.111\/ch.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.134.174.235:443\/a2.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/ruzeda.com\/blogs\/drafts\/publish\/schedule\/seosso\/login\/mfa\/verify\/token\/refresh\/ips\/blocklist\/whitelist",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.134.174.235:443\/2.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/91.215.85.42:3000\/crypto\/keys",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/154.89.152.240\/a_x64",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":68
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/154.89.152.240\/a_x86",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":49
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/fast-eda.my\/dostavka\/lavka\/kategorii\/zakuski\/sushi\/sety\/skidki\/regiony\/msk\/birylievo",
+        "first_seen":1768313770000,
+        "last_seen":1768830494000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/weaplink.com",
+        "first_seen":1768615830000,
+        "last_seen":1768615830000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/pub-2149a070e76f4ccabd67228f754768dc.r2.dev\/I-Google-Captcha-Continue-Latest-27-L-1.html",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/chatgptitalia.net\/",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/185.141.216.127\/tr.e",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.221.64.245\/mot\/",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/pub-959ff112c2eb41ce8f7b24e38c9b4f94.r2.dev\/Google-Captcha-Continue-Latest-J-KL-3.html",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/104.164.55.7\/231\/means.d",
+        "first_seen":1768584381000,
+        "last_seen":1768584381000,
+        "tags":"''",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/dn710107.ca.archive.org\/0\/items\/msi-pro-with-b-64_20251208_1511\/MSI_PRO_with_b64.png",
+        "first_seen":1768317768000,
+        "last_seen":1768317768000,
+        "tags":"''",
+        "CyberArt_score":41
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/stoaccinfoniqaveeambkp.blob.core.windows.net\/veeam",
+        "first_seen":1768317768000,
+        "last_seen":1768317768000,
+        "tags":"''",
+        "CyberArt_score":41
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.76.155.14\/vim",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":41
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/cdn.tagbox.io\/assets\/6939ddbee4f7fe0011781587\/7697c827-2ad6-4ffe-ab0c-2b386724f982---optimized_msi.png",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/176.117.107.154\/bot",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.32.158.54\/5e51aff54626ef7f\/x86_64",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/193.34.213.150\/nuts\/x86",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/31.56.27.97\/scripts\/4thepool_miner.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/41.231.37.153\/rondo.armv4l",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/41.231.37.153\/rondo.armv5l",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/59.7.217.245:7070\/c.sh",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/51.81.104.115\/nuts\/x86",
+        "first_seen":1768313770000,
+        "last_seen":1768313770000,
+        "tags":"''",
+        "CyberArt_score":57
     }
 ]
