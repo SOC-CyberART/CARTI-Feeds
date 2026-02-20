@@ -1,13 +1,14 @@
 ioctype;ioc;first_seen;last_seen;tags;CyberArt_score
-domain;versatsis.com.br;2026-02-17 16:23:31;2026-02-17 16:23:31;'phishing','フィッシング詐欺cc','1';47
-domain;9000-firebase-tride-1768341402880.cluster-6aufaxcfanfh2quaz7stglulic.cloudworkstations.dev;2026-02-12 12:53:20;2026-02-12 12:53:20;'phishing','フィッシング詐欺cc','1';69
-url;https://1cbit-dev.com/peripherals/board/sigma/setup.html;2026-02-17 12:43:05;2026-02-17 12:43:05;'';57
-url;https://1cbit-dev.com/kb/server/articles/index.html;2026-02-17 12:43:05;2026-02-17 12:43:05;'';57
-url;https://1cbit-dev.com/terminals/kernel/delta/files.html;2026-02-17 12:43:05;2026-02-17 12:43:05;'';57
-url;https://submit-form.com/uE76Wnlyf;2026-02-12 12:53:21;2026-02-12 12:53:21;'phishing','aaaa','フィッシング詐欺138';57
-url;https://9000-firebase-tride-1768341402880.cluster-6aufaxcfanfh2quaz7stglulic.cloudworkstations.dev/?monospaceUid=3849;2026-02-12 12:53:20;2026-02-12 12:53:20;'phishing','フィッシング詐欺cc','1';49
-ip;45.156.27.193;2026-02-16 20:11:40;2026-02-16 20:11:40;'';50
-sha256;1233b4557d30a9291d10cc57524b312ef25183ff21d960927c271805c0698ef2;2026-02-16 20:11:40;2026-02-16 20:11:40;'';55
-sha256;05298d55d3a344322e2057804dc67624b0d90fc3daa8db39c5671cece857e766;2026-02-16 20:11:40;2026-02-16 20:11:40;'';55
-sha256;ad3a19c37777c816f28c59697a642acd78315116496b471e743bb8fda875e7a5;2026-02-16 20:11:40;2026-02-16 20:11:40;'';55
-sha256;a7b351abcc254df7750d69e327aabcf15bd458b229b0a43347cc1e374870d1bb;2026-02-12 18:33:31;2026-02-12 18:33:31;'StealC';49
+domain;versatsis.com.br;2026-02-17 16:23:31;2026-02-17 16:23:31;'phishing','フィッシング詐欺cc','1';46
+url;https://1cbit-dev.com/peripherals/board/sigma/setup.html;2026-02-17 12:43:05;2026-02-17 12:43:05;'';55
+url;https://1cbit-dev.com/kb/server/articles/index.html;2026-02-17 12:43:05;2026-02-17 12:43:05;'';55
+url;https://1cbit-dev.com/terminals/kernel/delta/files.html;2026-02-17 12:43:05;2026-02-17 12:43:05;'';55
+ip;194.59.30.30;2026-02-19 14:35:35;2026-02-19 14:35:35;'';49
+ip;45.156.27.193;2026-02-16 20:11:40;2026-02-16 20:11:40;'';49
+sha256;34412e765822cf3fb32a5a5c9866fb29a9b98d627b4d9a3275fd3e754cf8e360;2026-02-18 19:15:38;2026-02-18 19:15:38;'C2','APT','Phishing','TransparentTribe','APT36','CrimsonRAT';94
+sha256;ae3325e18d1fa39d0daa859d22c9bf96215719c781de46ab530054ef49b330e3;2026-02-18 19:15:38;2026-02-18 19:15:38;'C2','APT','Phishing','TransparentTribe','APT36','CrimsonRAT';94
+sha256;39debedf45cc7f86e7ef3ade0a3a6ec500afd97d28bb51733e3f544bc1a2de62;2026-02-18 19:15:38;2026-02-18 19:15:38;'C2','APT','Phishing','TransparentTribe','APT36','CrimsonRAT';94
+sha256;3b0df07b01b05707e79050d2c09196128b5ed2fd9796c33ea29c73ad0a9cc92c;2026-02-18 19:15:38;2026-02-18 19:15:38;'C2','APT','Phishing','TransparentTribe','APT36','CrimsonRAT';57
+sha256;1233b4557d30a9291d10cc57524b312ef25183ff21d960927c271805c0698ef2;2026-02-16 20:11:40;2026-02-16 20:11:40;'';53
+sha256;05298d55d3a344322e2057804dc67624b0d90fc3daa8db39c5671cece857e766;2026-02-16 20:11:40;2026-02-16 20:11:40;'';53
+sha256;ad3a19c37777c816f28c59697a642acd78315116496b471e743bb8fda875e7a5;2026-02-16 20:11:40;2026-02-16 20:11:40;'';53
