@@ -1,315 +1,19 @@
 [
     {
-        "ioctype":"url",
-        "ioc":"https:\/\/fanonlyatn.xyz\/files\/",
-        "first_seen":1775256580000,
-        "last_seen":1775256580000,
-        "tags":"''",
-        "CyberArt_score":58
+        "ioctype":"domain",
+        "ioc":"ventureboost.info",
+        "first_seen":1775272702000,
+        "last_seen":1775272702000,
+        "tags":"'WsgiDAV','opendir13267'",
+        "CyberArt_score":68
     },
     {
-        "ioctype":"url",
-        "ioc":"https:\/\/geovischat.com\/C\/edg\/",
-        "first_seen":1775214261000,
-        "last_seen":1775214261000,
+        "ioctype":"domain",
+        "ioc":"actualisation-profil.net",
+        "first_seen":1775267053000,
+        "last_seen":1775267053000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":58
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/jerrybeers.com",
-        "first_seen":1775181092000,
-        "last_seen":1775181092000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":66
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/www.chanmiraicd1.duckdns.org\/bot_x86.exe",
-        "first_seen":1775151153000,
-        "last_seen":1775151153000,
-        "tags":"''",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/2516ddc.lpbsir.club\/42pp\/c7uFZzg5?m=redirect&t=aHR0cHM6Ly93d3cxNS5kaWJhc3ouY2x1Yi94cndnbGFsaw%3D%3D",
-        "first_seen":1775148334000,
-        "last_seen":1775148334000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.9.74.80\/0bjdn2Z\/index.phpc",
-        "first_seen":1775140876000,
-        "last_seen":1775140876000,
-        "tags":"''",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.9.74.80\/0bjdn2Z\/index.php-f96218f6e149edc03f",
-        "first_seen":1775140876000,
-        "last_seen":1775140876000,
-        "tags":"''",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/45.9.74.80\/0bjdn2Z\/index.phph",
-        "first_seen":1775140876000,
-        "last_seen":1775140876000,
-        "tags":"''",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/nghea.com\/sLv4zezZRG",
-        "first_seen":1775130666000,
-        "last_seen":1775130666000,
-        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/alespanyaproperties.com\/vlsxsq",
-        "first_seen":1775130603000,
-        "last_seen":1775130603000,
-        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncard169'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/alespanyaproperties.com\/vlsxsq",
-        "first_seen":1775130603000,
-        "last_seen":1775130603000,
-        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncard169'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/resumekeeper.com\/vvzgOCp51M",
-        "first_seen":1775130603000,
-        "last_seen":1775130603000,
-        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/nghea.com\/Q8YDyqZMXo",
-        "first_seen":1775130540000,
-        "last_seen":1775130540000,
-        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/login.gzqianqiu.com\/sbld8jt1?_t=Pl_EEL6gUOQ90nA1oSI9Hfxv1C8RgxDitBHuoKw-5TM",
-        "first_seen":1775128873000,
-        "last_seen":1775128873000,
-        "tags":"'phishing','フィッシング詐欺','ビューカード','viewcard291'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/login.gzqianqiu.com\/sbld8jt1?_t=Pl_EEL6gUOQ90nA1oSI9Hfxv1C8RgxDitBHuoKw-5TM",
-        "first_seen":1775128873000,
-        "last_seen":1775128873000,
-        "tags":"'phishing','フィッシング詐欺','ビューカード','viewcard291'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/by-haixingtiyu.com\/m\/detail\/6vZkC-9aPONs",
-        "first_seen":1775124699000,
-        "last_seen":1775124699000,
-        "tags":"'phishing','フィッシング詐欺','Amazoncc','2'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/by-haixingtiyu.com\/?v=cYWi1bslX7cJ",
-        "first_seen":1775124628000,
-        "last_seen":1775124628000,
-        "tags":"'phishing','フィッシング詐欺','Amazoncc','2'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/pauolaxbuem.top\/qkhgklyo\/",
-        "first_seen":1775124558000,
-        "last_seen":1775124558000,
-        "tags":"'phishing','フィッシング詐欺','Amazon41'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/pauolaxbuem.top\/qkhgklyo",
-        "first_seen":1775124557000,
-        "last_seen":1775124557000,
-        "tags":"'phishing','フィッシング詐欺','Amazoncc','1'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/zh-cni-lanjing.com\/tgtpdytb",
-        "first_seen":1775123271000,
-        "last_seen":1775123271000,
-        "tags":"'phishing','フィッシング詐欺','Apple49'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/zh-cni-lanjing.com\/tgtpdytb\/",
-        "first_seen":1775123271000,
-        "last_seen":1775123271000,
-        "tags":"'phishing','フィッシング詐欺','Apple49'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/zh-cni-lanjing.com\/tgtpdytb",
-        "first_seen":1775123271000,
-        "last_seen":1775123271000,
-        "tags":"'phishing','フィッシング詐欺','Apple49'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/with-anbo.com\/user\/activate\/o9zKFHgSNpY0OpaehfHKN",
-        "first_seen":1775123186000,
-        "last_seen":1775123186000,
-        "tags":"'phishing','フィッシング詐欺','Applecc','1'",
-        "CyberArt_score":57
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/app.aspirehealthspan.ai\/m\/index.html",
-        "first_seen":1775068667000,
-        "last_seen":1775068667000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/ungu.in\/erthserthsert5hyaerfhgs",
-        "first_seen":1775050915000,
-        "last_seen":1775050915000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":64
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/files.catbox.moe\/gh9z6o.dll",
-        "first_seen":1775050465000,
-        "last_seen":1775050465000,
-        "tags":"''",
-        "CyberArt_score":55
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/files.catbox.moe\/4nnmhq.dll",
-        "first_seen":1775050465000,
-        "last_seen":1775050465000,
-        "tags":"''",
-        "CyberArt_score":55
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/crpytweb3check.co\/",
-        "first_seen":1775029471000,
-        "last_seen":1775029471000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":55
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/a1iyun.top",
-        "first_seen":1775018845000,
-        "last_seen":1775018845000,
-        "tags":"'C2','APT41','IOC','ELF','Winnti'",
-        "CyberArt_score":55
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/ifin.be\/login",
-        "first_seen":1774996815000,
-        "last_seen":1774996815000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":62
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/gmailqzbw.ebforms.com\/5898388234305536",
-        "first_seen":1774965185000,
-        "last_seen":1774965185000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":53
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/callnrwise.com",
-        "first_seen":1774962256000,
-        "last_seen":1774962256000,
-        "tags":"'SupplyChainAttack4151','npm','Axios'",
-        "CyberArt_score":53
-    },
-    {
-        "ioctype":"url",
-        "ioc":"http:\/\/xjvbn.com",
-        "first_seen":1774957138000,
-        "last_seen":1774957138000,
-        "tags":"''",
-        "CyberArt_score":44
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/turtleman.grv961010.pro\/capcha.php",
-        "first_seen":1774933150000,
-        "last_seen":1774933150000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":44
-    },
-    {
-        "ioctype":"url",
-        "ioc":"https:\/\/allegrolokalnie.pl-ssid55346.click\/?id=Mb95fB6F2O8ImoAim78ggoKhEHnkK1",
-        "first_seen":1774834819000,
-        "last_seen":1774834819000,
-        "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":50
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"46.161.0.94",
-        "first_seen":1775149865000,
-        "last_seen":1775149865000,
-        "tags":"''",
-        "CyberArt_score":61
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"79.137.206.33",
-        "first_seen":1775090406000,
-        "last_seen":1775090406000,
-        "tags":"''",
-        "CyberArt_score":46
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"83.142.209.11",
-        "first_seen":1774890928000,
-        "last_seen":1774890928000,
-        "tags":"'TeamPCP'",
-        "CyberArt_score":86
-    },
-    {
-        "ioctype":"ip",
-        "ioc":"45.137.70.27",
-        "first_seen":1774656176000,
-        "last_seen":1774656176000,
-        "tags":"'opendir'",
-        "CyberArt_score":59
+        "CyberArt_score":89
     },
     {
         "ioctype":"domain",
@@ -317,7 +21,7 @@
         "first_seen":1775256580000,
         "last_seen":1775256580000,
         "tags":"''",
-        "CyberArt_score":53
+        "CyberArt_score":52
     },
     {
         "ioctype":"domain",
@@ -325,7 +29,7 @@
         "first_seen":1775214261000,
         "last_seen":1775214261000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":83
+        "CyberArt_score":80
     },
     {
         "ioctype":"domain",
@@ -333,7 +37,7 @@
         "first_seen":1775181092000,
         "last_seen":1775181092000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":47
+        "CyberArt_score":46
     },
     {
         "ioctype":"domain",
@@ -341,7 +45,7 @@
         "first_seen":1775170065000,
         "last_seen":1775170065000,
         "tags":"'APT','Sidewinder','Pakistan'",
-        "CyberArt_score":47
+        "CyberArt_score":46
     },
     {
         "ioctype":"domain",
@@ -349,7 +53,7 @@
         "first_seen":1775151153000,
         "last_seen":1775151153000,
         "tags":"''",
-        "CyberArt_score":52
+        "CyberArt_score":50
     },
     {
         "ioctype":"domain",
@@ -357,7 +61,7 @@
         "first_seen":1775148334000,
         "last_seen":1775148334000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":66
+        "CyberArt_score":64
     },
     {
         "ioctype":"domain",
@@ -365,7 +69,7 @@
         "first_seen":1775130666000,
         "last_seen":1775130666000,
         "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
-        "CyberArt_score":89
+        "CyberArt_score":87
     },
     {
         "ioctype":"domain",
@@ -373,7 +77,7 @@
         "first_seen":1775130603000,
         "last_seen":1775130603000,
         "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncard169'",
-        "CyberArt_score":52
+        "CyberArt_score":50
     },
     {
         "ioctype":"domain",
@@ -381,7 +85,7 @@
         "first_seen":1775130603000,
         "last_seen":1775130603000,
         "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
-        "CyberArt_score":52
+        "CyberArt_score":50
     },
     {
         "ioctype":"domain",
@@ -389,7 +93,7 @@
         "first_seen":1775128873000,
         "last_seen":1775128873000,
         "tags":"'phishing','フィッシング詐欺','ビューカード','viewcard291'",
-        "CyberArt_score":52
+        "CyberArt_score":50
     },
     {
         "ioctype":"domain",
@@ -397,7 +101,7 @@
         "first_seen":1775128872000,
         "last_seen":1775128872000,
         "tags":"'phishing','フィッシング詐欺','ビューカード','1','viewcardcc'",
-        "CyberArt_score":47
+        "CyberArt_score":46
     },
     {
         "ioctype":"domain",
@@ -405,7 +109,7 @@
         "first_seen":1775124628000,
         "last_seen":1775124628000,
         "tags":"'phishing','フィッシング詐欺','Amazoncc','2'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"domain",
@@ -413,7 +117,7 @@
         "first_seen":1775124557000,
         "last_seen":1775124557000,
         "tags":"'phishing','フィッシング詐欺','Amazoncc','1'",
-        "CyberArt_score":66
+        "CyberArt_score":64
     },
     {
         "ioctype":"domain",
@@ -421,7 +125,7 @@
         "first_seen":1775123270000,
         "last_seen":1775123270000,
         "tags":"'phishing','フィッシング詐欺','Applecc','1'",
-        "CyberArt_score":80
+        "CyberArt_score":78
     },
     {
         "ioctype":"domain",
@@ -429,7 +133,7 @@
         "first_seen":1775068667000,
         "last_seen":1775068667000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":50
+        "CyberArt_score":49
     },
     {
         "ioctype":"domain",
@@ -437,7 +141,7 @@
         "first_seen":1775050915000,
         "last_seen":1775050915000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":87
+        "CyberArt_score":84
     },
     {
         "ioctype":"domain",
@@ -445,7 +149,7 @@
         "first_seen":1774361800000,
         "last_seen":1775050464000,
         "tags":", 'ФСТЭК'",
-        "CyberArt_score":47
+        "CyberArt_score":45
     },
     {
         "ioctype":"domain",
@@ -453,7 +157,7 @@
         "first_seen":1775029471000,
         "last_seen":1775029471000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":46
+        "CyberArt_score":44
     },
     {
         "ioctype":"domain",
@@ -461,7 +165,7 @@
         "first_seen":1775010220000,
         "last_seen":1775010220000,
         "tags":"''",
-        "CyberArt_score":82
+        "CyberArt_score":80
     },
     {
         "ioctype":"domain",
@@ -469,31 +173,7 @@
         "first_seen":1774996815000,
         "last_seen":1774996815000,
         "tags":"'phishing','infosec','cybersecurity'",
-        "CyberArt_score":58
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"slenjzj.cyou",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"ashfordbathroomcentre.co.uk",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":89
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"fw1i5rno.com",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":84
+        "CyberArt_score":56
     },
     {
         "ioctype":"domain",
@@ -501,55 +181,23 @@
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":58
+        "CyberArt_score":56
     },
     {
         "ioctype":"domain",
-        "ioc":"frogsjeans.space",
+        "ioc":"hostinfo-service.info",
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":44
+        "CyberArt_score":43
     },
     {
         "ioctype":"domain",
-        "ioc":"elecviews43.dynv6.net",
+        "ioc":"nids67.dynv6.net",
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":44
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"xixixisad-37873.portmap.host",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":58
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"nids30.dynv6.net",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":44
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"malware.ashfordbathroomcentre.co.uk",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":84
-    },
-    {
-        "ioctype":"domain",
-        "ioc":"gre.ssffaa4.xyz",
-        "first_seen":1774986306000,
-        "last_seen":1774986306000,
-        "tags":"''",
-        "CyberArt_score":84
+        "CyberArt_score":43
     },
     {
         "ioctype":"domain",
@@ -557,15 +205,39 @@
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":71
+        "CyberArt_score":69
     },
     {
         "ioctype":"domain",
-        "ioc":"robindeslois.org",
+        "ioc":"slenjzj.cyou",
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":49
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"gre.ssffaa4.xyz",
+        "first_seen":1774986306000,
+        "last_seen":1774986306000,
+        "tags":"''",
+        "CyberArt_score":82
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"fw1i5rno.com",
+        "first_seen":1774986306000,
+        "last_seen":1774986306000,
+        "tags":"''",
+        "CyberArt_score":82
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"nids30.dynv6.net",
+        "first_seen":1774986306000,
+        "last_seen":1774986306000,
+        "tags":"''",
+        "CyberArt_score":43
     },
     {
         "ioctype":"domain",
@@ -573,230 +245,558 @@
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":89
+        "CyberArt_score":86
     },
     {
         "ioctype":"domain",
-        "ioc":"vmax.so",
+        "ioc":"nightmarerecords.com",
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":89
+        "CyberArt_score":69
     },
     {
         "ioctype":"domain",
-        "ioc":"pelisflix200.one",
+        "ioc":"frogsjeans.space",
         "first_seen":1774986306000,
         "last_seen":1774986306000,
         "tags":"''",
-        "CyberArt_score":49
+        "CyberArt_score":43
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"victubp.cyou",
+        "first_seen":1774986306000,
+        "last_seen":1774986306000,
+        "tags":"''",
+        "CyberArt_score":78
+    },
+    {
+        "ioctype":"domain",
+        "ioc":"robindeslois.org",
+        "first_seen":1774986306000,
+        "last_seen":1774986306000,
+        "tags":"''",
+        "CyberArt_score":47
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/msha.ke\/gyrhvddjg",
+        "first_seen":1775306216000,
+        "last_seen":1775306216000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":58
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/actualisation-profil.net\/connexion",
+        "first_seen":1775267053000,
+        "last_seen":1775267053000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":66
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/fanonlyatn.xyz\/files\/",
+        "first_seen":1775256580000,
+        "last_seen":1775256580000,
+        "tags":"''",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/geovischat.com\/C\/edg\/",
+        "first_seen":1775214261000,
+        "last_seen":1775214261000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":57
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/jerrybeers.com",
+        "first_seen":1775181092000,
+        "last_seen":1775181092000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":64
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/www.chanmiraicd1.duckdns.org\/bot_x86.exe",
+        "first_seen":1775151153000,
+        "last_seen":1775151153000,
+        "tags":"''",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/2516ddc.lpbsir.club\/42pp\/c7uFZzg5?m=redirect&t=aHR0cHM6Ly93d3cxNS5kaWJhc3ouY2x1Yi94cndnbGFsaw%3D%3D",
+        "first_seen":1775148334000,
+        "last_seen":1775148334000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.9.74.80\/0bjdn2Z\/index.php-f96218f6e149edc03f",
+        "first_seen":1775140876000,
+        "last_seen":1775140876000,
+        "tags":"''",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.9.74.80\/0bjdn2Z\/index.phpc",
+        "first_seen":1775140876000,
+        "last_seen":1775140876000,
+        "tags":"''",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/45.9.74.80\/0bjdn2Z\/index.phph",
+        "first_seen":1775140876000,
+        "last_seen":1775140876000,
+        "tags":"''",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/nghea.com\/sLv4zezZRG",
+        "first_seen":1775130666000,
+        "last_seen":1775130666000,
+        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/alespanyaproperties.com\/vlsxsq",
+        "first_seen":1775130603000,
+        "last_seen":1775130603000,
+        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncard169'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/alespanyaproperties.com\/vlsxsq",
+        "first_seen":1775130603000,
+        "last_seen":1775130603000,
+        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncard169'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/resumekeeper.com\/vvzgOCp51M",
+        "first_seen":1775130603000,
+        "last_seen":1775130603000,
+        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/nghea.com\/Q8YDyqZMXo",
+        "first_seen":1775130540000,
+        "last_seen":1775130540000,
+        "tags":"'phishing','フィッシング詐欺','セゾンカード','saisoncardcc','1'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/login.gzqianqiu.com\/sbld8jt1?_t=Pl_EEL6gUOQ90nA1oSI9Hfxv1C8RgxDitBHuoKw-5TM",
+        "first_seen":1775128873000,
+        "last_seen":1775128873000,
+        "tags":"'phishing','フィッシング詐欺','ビューカード','viewcard291'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/login.gzqianqiu.com\/sbld8jt1?_t=Pl_EEL6gUOQ90nA1oSI9Hfxv1C8RgxDitBHuoKw-5TM",
+        "first_seen":1775128873000,
+        "last_seen":1775128873000,
+        "tags":"'phishing','フィッシング詐欺','ビューカード','viewcard291'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/by-haixingtiyu.com\/m\/detail\/6vZkC-9aPONs",
+        "first_seen":1775124699000,
+        "last_seen":1775124699000,
+        "tags":"'phishing','フィッシング詐欺','Amazoncc','2'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/by-haixingtiyu.com\/?v=cYWi1bslX7cJ",
+        "first_seen":1775124628000,
+        "last_seen":1775124628000,
+        "tags":"'phishing','フィッシング詐欺','Amazoncc','2'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/pauolaxbuem.top\/qkhgklyo\/",
+        "first_seen":1775124558000,
+        "last_seen":1775124558000,
+        "tags":"'phishing','フィッシング詐欺','Amazon41'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/pauolaxbuem.top\/qkhgklyo",
+        "first_seen":1775124557000,
+        "last_seen":1775124557000,
+        "tags":"'phishing','フィッシング詐欺','Amazoncc','1'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/zh-cni-lanjing.com\/tgtpdytb",
+        "first_seen":1775123271000,
+        "last_seen":1775123271000,
+        "tags":"'phishing','フィッシング詐欺','Apple49'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/zh-cni-lanjing.com\/tgtpdytb\/",
+        "first_seen":1775123271000,
+        "last_seen":1775123271000,
+        "tags":"'phishing','フィッシング詐欺','Apple49'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/zh-cni-lanjing.com\/tgtpdytb",
+        "first_seen":1775123271000,
+        "last_seen":1775123271000,
+        "tags":"'phishing','フィッシング詐欺','Apple49'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/with-anbo.com\/user\/activate\/o9zKFHgSNpY0OpaehfHKN",
+        "first_seen":1775123186000,
+        "last_seen":1775123186000,
+        "tags":"'phishing','フィッシング詐欺','Applecc','1'",
+        "CyberArt_score":55
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/app.aspirehealthspan.ai\/m\/index.html",
+        "first_seen":1775068667000,
+        "last_seen":1775068667000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/ungu.in\/erthserthsert5hyaerfhgs",
+        "first_seen":1775050915000,
+        "last_seen":1775050915000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":62
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/files.catbox.moe\/gh9z6o.dll",
+        "first_seen":1775050465000,
+        "last_seen":1775050465000,
+        "tags":"''",
+        "CyberArt_score":53
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/files.catbox.moe\/4nnmhq.dll",
+        "first_seen":1775050465000,
+        "last_seen":1775050465000,
+        "tags":"''",
+        "CyberArt_score":53
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/crpytweb3check.co\/",
+        "first_seen":1775029471000,
+        "last_seen":1775029471000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":53
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/a1iyun.top",
+        "first_seen":1775018845000,
+        "last_seen":1775018845000,
+        "tags":"'C2','APT41','IOC','ELF','Winnti'",
+        "CyberArt_score":53
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/ifin.be\/login",
+        "first_seen":1774996815000,
+        "last_seen":1774996815000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":60
+    },
+    {
+        "ioctype":"url",
+        "ioc":"https:\/\/gmailqzbw.ebforms.com\/5898388234305536",
+        "first_seen":1774965185000,
+        "last_seen":1774965185000,
+        "tags":"'phishing','infosec','cybersecurity'",
+        "CyberArt_score":52
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/callnrwise.com",
+        "first_seen":1774962256000,
+        "last_seen":1774962256000,
+        "tags":"'SupplyChainAttack4151','npm','Axios'",
+        "CyberArt_score":52
+    },
+    {
+        "ioctype":"url",
+        "ioc":"http:\/\/xjvbn.com",
+        "first_seen":1774957138000,
+        "last_seen":1774957138000,
+        "tags":"''",
+        "CyberArt_score":43
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"46.161.0.94",
+        "first_seen":1775149865000,
+        "last_seen":1775149865000,
+        "tags":"''",
+        "CyberArt_score":59
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"79.137.206.33",
+        "first_seen":1775090406000,
+        "last_seen":1775090406000,
+        "tags":"''",
+        "CyberArt_score":44
+    },
+    {
+        "ioctype":"ip",
+        "ioc":"83.142.209.11",
+        "first_seen":1774890928000,
+        "last_seen":1774890928000,
+        "tags":"'TeamPCP'",
+        "CyberArt_score":84
     },
     {
         "ioctype":"sha256",
-        "ioc":"af935aced0b92e3dee16cfbaf0ba8aa6441969e4055bb1a49cd99bdb7b061008",
-        "first_seen":1775289600000,
-        "last_seen":1775289600000,
+        "ioc":"e95fd0b1db8c49d7dfada426b6cac012227f505a8c793cffe0d4173638bd4fe9",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"240df9ab57143d19b8d7c3170e5be0002ff1d59d068cbe91f3209caf77d810d2",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"1cfacd17e613b1738f31fac5b9d39398454427158b6a6430a3339ce6b9cab490",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"563643bec2f38c4647bcea847365fd6405d648d0316fd2c5d5ce1a106931b089",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'BACKDOOR','TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"0eec972341affce434bb697a0918a7c40bb76c693bdbb01bc46c17393e26b6cc",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER','HACKTOOL'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"87dcac60d3c44ec21383601b2b6bf6edb855a94015e12bb875c3da549cebea6e",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"4ed74b9a2965fcb33d0132acff5f6256bc1d8919eee08fdb254d7c1ac6e4aead",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"6b68eadd008b965b12b67db6b5569b2003d1b230aba584d48d3a2f719807a6df",
+        "first_seen":1775376000000,
+        "last_seen":1775376000000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"8b74aa24a15e7e52e7a97b84486ee3a0ce24e22e0183f978e70b7fdf2fa68cf6",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"7b7feb85d68a2bada82eef17309890f90de907332ac8cfd474708387f7ccf34c",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"234348aae33285ad25232d4bd2e9b3900b80b62976c0ebfc76cb4a47a6c63c3e",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
         "tags":"'RISKTOOL'",
         "CyberArt_score":40
     },
     {
         "ioctype":"sha256",
-        "ioc":"9b15aedfa62f1df551338480c51665edf24fb00cc14a014211a234ecd75a0b84",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"bda956f65de2ba699590821677ab0af57919ce3806a098b1d7856a504697ad3d",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
+        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"eb57ca3dbad519573d65317a8b35ddfb6921e6cf6d44aafd466f856283e28803",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
         "tags":"'RISKTOOL'",
         "CyberArt_score":40
     },
     {
         "ioctype":"sha256",
-        "ioc":"5427edd231beb33e66ab7b5993d1a70587d2f7d042306a60211b56af44f82380",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"8120766b6b118ee6863f57d2a2f7f53752d282fd4d12d925f70b9ab74f003534",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"d468b6ada8e3dcbfa91c708de4fe1ca3e41bbe18b2f5af2054a2e0a5686fdc9d",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"123d0b0b0e246646a29a3eeeca3cec00e015ac8d69a9d586bef992c2a1051009",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"4a580db59a598814149e4f6fc8b14bcb7374bde672abcaea75b946201e83df71",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN_DOWNLOADER','BACKDOOR','TROJAN','WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"160df6128d2423fb414a9b9baf3d4aebf3fcad295caaff8a26e10fd7f9d8cd9e",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"8ada174e7f0845bee202dbb6613ac07665ae5fe9db08d297e8b8da06d096275d",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"303f9b0b79f0b0dcefbf02c2df90a352ebb28419fd646331fb327c25f8b5fd54",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"f5f7aa25cc0002fbe612fbb03bc50d2b5d4f302d425e23639061f98c7941bce8",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
         "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"aabe3c75c74611484aae5f13ec6212a348df01d223d4c2d2a7d77a306486c1d8",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"2f77b32d357ee32396ed1724ed88c5c5f9fd8db8cedbd1b07a1bb1d58989862a",
+        "first_seen":1775253600000,
+        "last_seen":1775372400000,
+        "tags":"'HACKTOOL'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"e00c30b41dee8072a882975c6a2fc6055d11ca5b6208519d4aab470214967eef",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
         "tags":"'TROJAN','WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"d528d7dd3076fc173adfadfb90c1dc94e9ac032d059965e6ae98b8bf3ac67d3f",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "ioc":"5c5e51d2eb14dc9f86e83bba993a0cc798916b59b386711d8972f51490b76b91",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
+        "tags":"'BACKDOOR','TROJAN','WORM','TROJAN_DROPPER'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"dcad71be81a59f8eb8ac98c5af5605c9b8eef26c59eeddea7b2fc69e97880e19",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"9e1265682d8a9166b319f1884aa591ac2f3cab345f5a608dfea5cb9543f9ad33",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
+        "tags":"'TROJAN','WORM'",
+        "CyberArt_score":80
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"e110aa515d29710eb62e272139e5b1a3a6d26adf84216e3a1b84297a138b2435",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
         "tags":"'RISKTOOL'",
         "CyberArt_score":40
     },
     {
         "ioctype":"sha256",
-        "ioc":"02ce55091a657c68a8f4509cd3869e2d386f9a12e7e26210b64fe870766c0f7d",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"a4f3bed939becb91cb104dc61bcf9e58314de9858b9d07125a3d3312ee40f0cb",
+        "first_seen":1775372400000,
+        "last_seen":1775372400000,
+        "tags":"'HACKTOOL','TROJAN_PSW'",
+        "CyberArt_score":50
+    },
+    {
+        "ioctype":"sha256",
+        "ioc":"68e64325ed4619376d48309b3976914147a8aaeda4327db1e3b3b77bc8f1a065",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
         "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"94a092e0c22c028e99357b985533418f70ea2a24ba8f8840a8c882b98dc814a2",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
+        "ioc":"9a778fbb730ee653f45b36700a369c81792509f855c2529aca73de1443c62de8",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
+        "tags":"'RISKTOOL','HOAX'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"15588e148ce17c6225ffdccad499ddb5adcf931f189355f600e54d861f6992ae",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"c6f3572fb3b09ac52f2412b661cce6e0b3be48ff3831eb9ffac788ea8a149129",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
         "tags":"'TROJAN','WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"dcf1650605e6968f32090c3c6c054ab9fd8d31d56a70c2c53ff303a1624a4106",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'RISKTOOL'",
-        "CyberArt_score":40
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"e6c14ec9ca8ab88a998aae1e9a5f064ff8f14b34770330ce0158bbeef617dc24",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM'",
+        "ioc":"10ce123919ff47a2d88a04a30adc73ec8b559efe5d9c363a0a1194e0986c8053",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
+        "tags":"'BACKDOOR','TROJAN','WORM'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"da6a639ff3e9b4e2ab0d399caa980ea25c30d06f123284114982f852bfdb548c",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
+        "ioc":"06c04733720e275e9444ed944be88568355bc6841405aa678d19466dc6b95acd",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
         "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"8cda6ff36f64a6c787982c216740857cf6b06b3c0dce3f341b3fcaafd6a8df3e",
-        "first_seen":1775286000000,
-        "last_seen":1775286000000,
-        "tags":"'TROJAN','WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"86f6f1ac0c96f6ecd0b93ade872c0a68ce0dc82d09496a042cfb388d266e388b",
-        "first_seen":1775282400000,
-        "last_seen":1775282400000,
-        "tags":"'TROJAN','TROJAN_DROPPER'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"db4c947521e4ae7d434f2385f57298943818a855548f25c318617e68607c4d5b",
-        "first_seen":1775282400000,
-        "last_seen":1775282400000,
-        "tags":"'WORM'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"4998e4d8376dbc20f275aa6a49ea31d9eece387047480191e5144ee3b5fd8e82",
-        "first_seen":1775282400000,
-        "last_seen":1775282400000,
+        "ioc":"7938be55716b8e131cc9d113a5488b065ea6ce96c79fb810cb223b35fa5812db",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
         "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
         "CyberArt_score":80
     },
     {
         "ioctype":"sha256",
-        "ioc":"69580e576e8b29dccb7ed5b32926a153ec7bd84939d6d1bcf57c21d3b4ec6dea",
-        "first_seen":1775282400000,
-        "last_seen":1775282400000,
+        "ioc":"f962cb443975065b91d4512a42a529a091726e1815be28ced0ebb9dff997931d",
+        "first_seen":1775368800000,
+        "last_seen":1775368800000,
         "tags":"'TROJAN'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"2c24953ebd08ebc8219cef505814492033138790f4a51815fd7f59a62830853b",
-        "first_seen":1775282400000,
-        "last_seen":1775282400000,
-        "tags":"'TROJAN'",
-        "CyberArt_score":80
-    },
-    {
-        "ioctype":"sha256",
-        "ioc":"df74f5f9a1b046f4b9d180f07ad734df52df9cac41bb38aa8549a48c1d920faf",
-        "first_seen":1775282400000,
-        "last_seen":1775282400000,
-        "tags":"'TROJAN','WORM','TROJAN_DROPPER'",
         "CyberArt_score":80
     }
 ]
