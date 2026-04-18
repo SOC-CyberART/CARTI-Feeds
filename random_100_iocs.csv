@@ -1,101 +1,101 @@
 ioctype;ioc;first_seen;last_seen;tags;CyberArt_score
-domain;baskethumor.xyz;2026-04-17 01:18:33;2026-04-17 01:18:33;'';49
-domain;robiox.com.ps;2026-04-16 19:50:23;2026-04-16 19:50:23;'phishing','infosec','cybersecurity';63
-domain;maxtwight.info;2026-04-16 18:11:50;2026-04-16 18:11:50;'Android','MiraxAge';68
-domain;descarga-smtr.com;2026-04-16 18:11:50;2026-04-16 18:11:50;'Android','MiraxAge';49
-domain;bestspend.info;2026-04-16 18:11:50;2026-04-16 18:11:50;'Android','MiraxAge';87
-domain;orpi-assurance.com;2026-04-16 10:53:37;2026-04-16 10:53:37;'phishing','infosec','cybersecurity';83
-domain;mujerhoy.org;2026-04-16 03:38:38;2026-04-16 03:38:38;'phishing','infosec','cybersecurity';63
-domain;psca-gop.org;2026-04-15 18:56:39;2026-04-15 20:40:52;'Patchwork', 'APT','Patchwork';89
-domain;arrayhouse.org;2026-04-15 18:56:39;2026-04-15 18:56:39;'Patchwork';75
-domain;mx.prod-stpmex.click;2026-04-15 15:19:12;2026-04-15 15:19:12;'phishing','infosec','cybersecurity';52
-domain;lamotte.serv807539.pro;2026-04-15 00:27:24;2026-04-15 00:27:24;'phishing','infosec','cybersecurity';50
-domain;paymentsv2.mysynology.net;2026-04-14 19:58:15;2026-04-14 19:58:15;'';73
-domain;pay.hostingshared99.com;2026-04-14 19:58:15;2026-04-14 19:58:15;'';55
-domain;crushfall.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;buradabmwking.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;auth.qgtxtebl.workers.dev;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;a.gandzy.shop;2026-04-07 20:26:53;2026-04-14 16:38:24;'';45
-domain;kittenscraft.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;velyonar.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;zarvethion.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;e732a5ae.xyz;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;red.redirectme.net;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;buradakimvar.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;rzchi.duckdns.org;2026-04-07 20:26:53;2026-04-14 16:38:24;'';45
-domain;hostroids.com;2026-04-07 20:39:52;2026-04-14 16:38:24;'';45
-domain;kittycraftmc.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';82
-domain;bmtxf0usc.localto.net;2026-04-07 20:26:53;2026-04-14 16:38:24;'';78
-domain;kittiesmc.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;slumpcute.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;almaz-aero.site;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;dashlune.xyz;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;serialmenot.com;2026-04-07 20:39:52;2026-04-14 16:38:24;'';45
-domain;eldrynworld.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;welarith.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-domain;negro07d8090.duckdns.org;2026-04-07 20:26:53;2026-04-14 16:38:24;'';45
-ip;41.216.189.108;2026-04-07 20:26:52;2026-04-14 16:38:24;'';45
-ip;67.159.18.115;2026-04-07 20:26:52;2026-04-14 16:38:24;'';45
-ip;23.94.145.120;2026-04-07 20:39:52;2026-04-14 16:38:24;'';45
-ip;103.181.182.245;2026-04-07 20:26:52;2026-04-14 16:38:24;'';45
-ip;23.132.28.196;2026-04-07 20:26:52;2026-04-14 16:38:24;'';45
-ip;66.85.26.200;2026-04-07 20:26:52;2026-04-14 16:38:24;'';45
-ip;144.172.105.88;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-ip;169.40.135.119;2026-04-14 00:04:44;2026-04-14 00:04:44;'';40
-ip;188.214.34.20;2026-04-13 18:02:21;2026-04-13 18:12:31;'';44
-ip;183.167.214.172;2026-04-13 04:00:00;2026-04-13 01:00:00;'BruteForce','SSH','fail2ban', ;86
-ip;165.154.227.162;2026-03-26 23:00:00;2026-04-12 23:00:00;'BruteForce','SSH','fail2ban', , 'BruteForce','SSH','ipban 1.9.0 - Failed password';52
-ip;219.78.63.235;2026-04-11 03:00:00;2026-04-12 03:00:00;'BruteForce','SSH','fail2ban', ;78
+domain;gwenet.org;2026-04-17 20:10:00;2026-04-17 20:10:00;'phishing','infosec','cybersecurity';63
+domain;allegro-lokalnie.998827gi.click;2026-04-17 15:14:20;2026-04-17 15:14:20;'phishing','infosec','cybersecurity';83
+domain;baskethumor.xyz;2026-04-17 01:18:33;2026-04-17 01:18:33;'';47
+domain;robiox.com.ps;2026-04-16 19:50:23;2026-04-16 19:50:23;'phishing','infosec','cybersecurity';61
+domain;descarga-smtr.com;2026-04-16 18:11:50;2026-04-16 18:11:50;'Android','MiraxAge';47
+domain;bestspend.info;2026-04-16 18:11:50;2026-04-16 18:11:50;'Android','MiraxAge';85
+domain;maxtwight.info;2026-04-16 18:11:50;2026-04-16 18:11:50;'Android','MiraxAge';66
+domain;orpi-assurance.com;2026-04-16 10:53:37;2026-04-16 10:53:37;'phishing','infosec','cybersecurity';80
+domain;mujerhoy.org;2026-04-16 03:38:38;2026-04-16 03:38:38;'phishing','infosec','cybersecurity';61
+domain;psca-gop.org;2026-04-15 18:56:39;2026-04-15 20:40:52;'Patchwork', 'APT','Patchwork';87
+domain;arrayhouse.org;2026-04-15 18:56:39;2026-04-15 18:56:39;'Patchwork';73
+domain;mx.prod-stpmex.click;2026-04-15 15:19:12;2026-04-15 15:19:12;'phishing','infosec','cybersecurity';50
+domain;lamotte.serv807539.pro;2026-04-15 00:27:24;2026-04-15 00:27:24;'phishing','infosec','cybersecurity';49
+domain;paymentsv2.mysynology.net;2026-04-14 19:58:15;2026-04-14 19:58:15;'';71
+domain;pay.hostingshared99.com;2026-04-14 19:58:15;2026-04-14 19:58:15;'';53
+domain;crushfall.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;trannynet.adgods.uk;2026-04-07 20:26:53;2026-04-14 16:38:24;'';58
+domain;auth.qgtxtebl.workers.dev;2026-04-14 16:38:01;2026-04-14 16:38:24;'';49
+domain;depertament.sbs;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;kittenscraft.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;zarvethion.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;e732a5ae.xyz;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;dashlune.xyz;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;buradakimvar.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;red.redirectme.net;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;hostroids.com;2026-04-07 20:39:52;2026-04-14 16:38:24;'';43
+domain;kittycraftmc.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';80
+domain;rzchi.duckdns.org;2026-04-07 20:26:53;2026-04-14 16:38:24;'';43
+domain;kittiesmc.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;slumpcute.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;almaz-aero.site;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;velyonar.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+domain;bmtxf0usc.localto.net;2026-04-07 20:26:53;2026-04-14 16:38:24;'';43
+domain;serialmenot.com;2026-04-07 20:39:52;2026-04-14 16:38:24;'';43
+domain;welarith.com;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+ip;41.216.189.108;2026-04-07 20:26:52;2026-04-14 16:38:24;'';43
+ip;67.159.18.115;2026-04-07 20:26:52;2026-04-14 16:38:24;'';43
+ip;23.94.145.120;2026-04-07 20:39:52;2026-04-14 16:38:24;'';43
+ip;103.181.182.245;2026-04-07 20:26:52;2026-04-14 16:38:24;'';43
+ip;23.132.28.196;2026-04-07 20:26:52;2026-04-14 16:38:24;'';43
+ip;66.85.26.200;2026-04-07 20:26:52;2026-04-14 16:38:24;'';43
+ip;144.172.105.88;2026-04-14 16:38:01;2026-04-14 16:38:24;'';49
+ip;188.214.34.20;2026-04-13 18:02:21;2026-04-13 18:12:31;'';43
+ip;183.167.214.172;2026-04-13 04:00:00;2026-04-13 01:00:00;'BruteForce','SSH','fail2ban', ;74
+ip;165.154.227.162;2026-03-26 23:00:00;2026-04-12 23:00:00;'BruteForce','SSH','fail2ban', , 'BruteForce','SSH','ipban 1.9.0 - Failed password';74
+ip;219.78.63.235;2026-04-11 03:00:00;2026-04-12 03:00:00;'BruteForce','SSH','fail2ban', ;75
 ip;80.66.66.70;2026-04-12 09:00:00;2026-04-12 01:00:00;'BruteForce','SSH','fail2ban', ;84
-ip;87.251.64.145;2026-04-07 11:00:00;2026-04-11 15:00:00;'BruteForce','SSH','fail2ban', ;94
-ip;216.57.110.81;2026-03-29 16:00:00;2026-04-11 04:00:00;'BruteForce','SSH','fail2ban', 'RDP','ipban 3.1.0 - 5152','BruteForce', , 'BruteForce','SSH','ipban 1.9.0 - Failed password';94
-ip;134.122.128.135;2026-04-11 01:32:19;2026-04-11 01:32:19;'';69
-ip;151.243.109.199;2026-04-10 23:30:00;2026-04-10 23:30:00;'';53
-ip;101.47.158.137;2026-03-29 02:00:00;2026-04-10 16:00:00;'BruteForce','SSH','fail2ban', ;84
-ip;95.85.245.170;2026-04-11 15:00:00;2026-04-10 15:00:00;'BruteForce','SSH','fail2ban', ;81
-ip;61.153.104.6;2026-03-25 16:00:00;2026-04-10 15:00:00;'BruteForce','SSH','fail2ban', , 'BruteForce','SSH','ipban 1.9.0 - Did not receive identification string';81
-url;https://www.robiox.com.ps/communities/6445822860/MudDogs#!/about;2026-04-16 19:50:23;2026-04-16 19:50:23;'phishing','infosec','cybersecurity';58
-url;https://www.orpi-assurance.com/;2026-04-16 10:53:37;2026-04-16 10:53:37;'phishing','infosec','cybersecurity';58
-url;http://mujerhoy.org/;2026-04-16 03:38:38;2026-04-16 03:38:38;'phishing','infosec','cybersecurity';58
-url;http://psca-gop.org;2026-04-15 18:56:39;2026-04-15 20:40:52;'Patchwork', 'APT','Patchwork';57
-url;http://arrayhouse.org;2026-04-15 18:56:39;2026-04-15 18:56:39;'Patchwork';57
-url;https://mx.prod-stpmex.click;2026-04-15 15:19:12;2026-04-15 15:19:12;'phishing','infosec','cybersecurity';57
-url;https://lamotte.serv807539.pro/;2026-04-15 00:27:24;2026-04-15 00:27:24;'phishing','infosec','cybersecurity';55
-url;http://paymentsv2.mysynology.net;2026-04-14 19:58:15;2026-04-14 19:58:15;'';55
-url;https://res.cloudinary.com/dzptvoj1b/image/upload/v1773339102/MSI_PRO_with_b64_wavpuj.jpg;2026-04-14 16:38:01;2026-04-14 16:38:24;'';55
-url;https://78smp.com/m/;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-url;https://files.catbox.moe/wzsjlw.dll;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-url;https://litter.catbox.moe/uaw2gm.txt;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-url;http://109.205.211.13/api.exe;2026-04-07 20:39:52;2026-04-14 16:38:24;'';45
-url;https://litter.catbox.moe/zqqxb3.txt;2026-04-14 16:38:01;2026-04-14 16:38:24;'';45
-url;http://e732a5ae.xyz/index.php;2026-04-14 16:38:01;2026-04-14 16:38:24;'';59
-url;http://nenkines-attachments.top/;2026-04-14 13:36:08;2026-04-14 13:36:08;'';46
-url;https://awuedu.org/mu2.html;2026-04-14 12:40:09;2026-04-14 12:40:09;'phishing','infosec','cybersecurity';55
-url;http://allegrolokalnie.186398b7.top;2026-04-14 03:20:39;2026-04-14 03:20:39;'phishing','infosec','cybersecurity';64
-url;http://188.214.34.20:34123;2026-04-13 18:02:21;2026-04-13 18:12:31;'';53
-url;https://188.214.34.20:34123;2026-04-13 18:12:31;2026-04-13 18:12:31;'';53
-url;http://zx.ado-read-parser.com/;2026-04-13 18:12:31;2026-04-13 18:12:31;'';62
-url;https://xhiguwdr7iet8iywdstu8odou-yivqt8oweyictwa8oiy.teemill.com/;2026-04-13 12:05:34;2026-04-13 12:05:34;'phishing','infosec','cybersecurity';53
-url;https://litocen.com/payload_2nd2.01.b64;2026-04-13 12:03:45;2026-04-13 12:03:45;'';53
-url;https://login.3trqcyye.shop/qimhxtru?_t=aeKwqQcrB7cFuo82DfdnN9Mrsu11HIjU17q9PmGrJfs;2026-04-13 11:50:18;2026-04-13 11:50:18;'phishing','フィッシング詐欺','マネックス証券77';53
-url;https://login.9by3ks1h.com/?login=e834ENJHdwWvGKGmaVUp42AN;2026-04-13 11:50:17;2026-04-13 11:50:17;'phishing','フィッシング詐欺','1','マネックス証券cc';53
-url;https://lygyaou.com/u/ehglcvpghh;2026-04-13 11:42:17;2026-04-13 11:42:17;'phishing','フィッシング詐欺','Applecc','1';53
-url;https://infinitemira.com/jp;2026-04-13 11:42:17;2026-04-13 11:42:17;'phishing','フィッシング詐欺','Applecc','1';53
-url;https://hyperionloom.com/jp;2026-04-13 11:41:08;2026-04-13 11:41:08;'phishing','フィッシング詐欺','Applecc','1';53
-url;https://badcovers.com/u/cyhjcfgubv;2026-04-13 11:41:08;2026-04-13 11:41:08;'phishing','フィッシング詐欺','Applecc','1';53
-url;https://www.62pn34wo.com/?login=ToD1undGei901KBrPOyelQmH;2026-04-13 09:54:07;2026-04-13 09:54:07;'phishing','フィッシング詐欺','1','マネックス証券cc';53
-url;https://resumekeeper.com/u/agtgnoanyt;2026-04-13 07:59:43;2026-04-13 07:59:43;'phishing','フィッシング詐欺','Applecc','1';53
-url;https://sxtnedbpfqvv.top/jpp;2026-04-13 07:58:51;2026-04-13 07:58:51;'phishing','フィッシング詐欺','1','Apple194';53
-url;https://resumekeeper.com/u/ovwoygescp;2026-04-13 07:58:51;2026-04-13 07:58:51;'phishing','フィッシング詐欺','1','Apple194';53
-url;https://cloud.zhan1524.com/hlp3az/;2026-04-13 07:43:03;2026-04-13 07:43:03;'phishing','フィッシング詐欺','Amazon1120';53
-url;https://cloud.zhan1524.com/hlp3az;2026-04-13 07:40:32;2026-04-13 07:40:32;'phishing','フィッシング詐欺','Amazon151';53
-sha256;21183d0dc7ebfd2520224095b196bf4311eff8eb23318e13115e7ad0313b89a0;2026-04-17 08:00:00;2026-04-17 08:00:00;'TROJAN';80
-sha256;64441598464674933b82ab8f6a61ec012d7eba24e1efed3c8bda46602e5c88fb;2026-04-17 08:00:00;2026-04-17 08:00:00;'TROJAN';80
-sha256;69edeac98f1cf614188ce821b21118a1464f88de3dcd55d700bb66d710cde57c;2026-04-17 08:00:00;2026-04-17 08:00:00;'TROJAN';80
-sha256;d406a70612ca122f952de2ee366a03c7138ee93a5eabdaa55e85b8c922d688f0;2026-04-17 08:00:00;2026-04-17 08:00:00;'TROJAN';80
-sha256;798d5d5b26e4c4acf2fdbeaa0a0b0ea1d5aa33342544faf474130992a8e6b802;2026-04-17 08:00:00;2026-04-17 08:00:00;'RISKTOOL';40
-sha256;523891fee9ce253dfcd42c2e627830235ec7161689524463d12af76d44300875;2026-04-17 08:00:00;2026-04-17 08:00:00;'TROJAN';80
-sha256;46d937ba544d4a698c56a0ec636c0666c46725a8f76c71afe36ebf006758615b;2026-04-17 07:00:00;2026-04-17 07:00:00;'TROJAN_DOWNLOADER','TROJAN','WORM','TROJAN_DROPPER';80
-sha256;a11e4aca1a2d9480a10ec40c3cafc650107816b032460234490612c8bea692ea;2026-04-17 07:00:00;2026-04-17 07:00:00;'VIRTOOL';80
-sha256;db01986406ae2ca593b4247cdc144af1132e669d1853cd914f43e3eae8b1f8af;2026-04-17 07:00:00;2026-04-17 07:00:00;'TROJAN_DOWNLOADER','TROJAN','WORM','TROJAN_DROPPER';80
-sha256;4c997f31a7967050362f49dbeab864ce8d2c5e17e94d72008a81d1bc316813c3;2026-04-17 07:00:00;2026-04-17 07:00:00;'TROJAN_DOWNLOADER','TROJAN';80
+ip;87.251.64.145;2026-04-07 11:00:00;2026-04-11 15:00:00;'BruteForce','SSH','fail2ban', ;84
+ip;216.57.110.81;2026-03-29 16:00:00;2026-04-11 04:00:00;'BruteForce','SSH','fail2ban', 'RDP','ipban 3.1.0 - 5152','BruteForce', , 'BruteForce','SSH','ipban 1.9.0 - Failed password';53
+ip;134.122.128.135;2026-04-11 01:32:19;2026-04-11 01:32:19;'';67
+url;http://www.gwenet.org/office;2026-04-17 20:10:00;2026-04-17 20:10:00;'phishing','infosec','cybersecurity';68
+url;http://allegro-lokalnie.998827gi.click/;2026-04-17 15:14:20;2026-04-17 15:14:20;'phishing','infosec','cybersecurity';58
+url;https://www.robiox.com.ps/communities/6445822860/MudDogs#!/about;2026-04-16 19:50:23;2026-04-16 19:50:23;'phishing','infosec','cybersecurity';57
+url;https://www.orpi-assurance.com/;2026-04-16 10:53:37;2026-04-16 10:53:37;'phishing','infosec','cybersecurity';57
+url;http://mujerhoy.org/;2026-04-16 03:38:38;2026-04-16 03:38:38;'phishing','infosec','cybersecurity';57
+url;http://psca-gop.org;2026-04-15 18:56:39;2026-04-15 20:40:52;'Patchwork', 'APT','Patchwork';55
+url;http://arrayhouse.org;2026-04-15 18:56:39;2026-04-15 18:56:39;'Patchwork';55
+url;https://mx.prod-stpmex.click;2026-04-15 15:19:12;2026-04-15 15:19:12;'phishing','infosec','cybersecurity';55
+url;https://lamotte.serv807539.pro/;2026-04-15 00:27:24;2026-04-15 00:27:24;'phishing','infosec','cybersecurity';53
+url;http://paymentsv2.mysynology.net;2026-04-14 19:58:15;2026-04-14 19:58:15;'';53
+url;https://litter.catbox.moe/zqqxb3.txt;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+url;https://78smp.com/m/;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+url;https://files.catbox.moe/wzsjlw.dll;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+url;https://litter.catbox.moe/uaw2gm.txt;2026-04-14 16:38:01;2026-04-14 16:38:24;'';43
+url;http://109.205.211.13/api.exe;2026-04-07 20:39:52;2026-04-14 16:38:24;'';43
+url;http://e732a5ae.xyz/index.php;2026-04-14 16:38:01;2026-04-14 16:38:24;'';58
+url;https://res.cloudinary.com/dzptvoj1b/image/upload/v1773339102/MSI_PRO_with_b64_wavpuj.jpg;2026-04-14 16:38:01;2026-04-14 16:38:24;'';53
+url;http://nenkines-attachments.top/;2026-04-14 13:36:08;2026-04-14 13:36:08;'';44
+url;https://awuedu.org/mu2.html;2026-04-14 12:40:09;2026-04-14 12:40:09;'phishing','infosec','cybersecurity';53
+url;http://allegrolokalnie.186398b7.top;2026-04-14 03:20:39;2026-04-14 03:20:39;'phishing','infosec','cybersecurity';62
+url;http://188.214.34.20:34123;2026-04-13 18:02:21;2026-04-13 18:12:31;'';52
+url;http://zx.ado-read-parser.com/;2026-04-13 18:12:31;2026-04-13 18:12:31;'';60
+url;https://188.214.34.20:34123;2026-04-13 18:12:31;2026-04-13 18:12:31;'';52
+url;https://xhiguwdr7iet8iywdstu8odou-yivqt8oweyictwa8oiy.teemill.com/;2026-04-13 12:05:34;2026-04-13 12:05:34;'phishing','infosec','cybersecurity';52
+url;https://litocen.com/payload_2nd2.01.b64;2026-04-13 12:03:45;2026-04-13 12:03:45;'';52
+url;https://login.3trqcyye.shop/qimhxtru?_t=aeKwqQcrB7cFuo82DfdnN9Mrsu11HIjU17q9PmGrJfs;2026-04-13 11:50:18;2026-04-13 11:50:18;'phishing','フィッシング詐欺','マネックス証券77';52
+url;https://login.9by3ks1h.com/?login=e834ENJHdwWvGKGmaVUp42AN;2026-04-13 11:50:17;2026-04-13 11:50:17;'phishing','フィッシング詐欺','1','マネックス証券cc';52
+url;https://lygyaou.com/u/ehglcvpghh;2026-04-13 11:42:17;2026-04-13 11:42:17;'phishing','フィッシング詐欺','Applecc','1';52
+url;https://infinitemira.com/jp;2026-04-13 11:42:17;2026-04-13 11:42:17;'phishing','フィッシング詐欺','Applecc','1';52
+url;https://hyperionloom.com/jp;2026-04-13 11:41:08;2026-04-13 11:41:08;'phishing','フィッシング詐欺','Applecc','1';52
+url;https://badcovers.com/u/cyhjcfgubv;2026-04-13 11:41:08;2026-04-13 11:41:08;'phishing','フィッシング詐欺','Applecc','1';52
+url;https://www.62pn34wo.com/?login=ToD1undGei901KBrPOyelQmH;2026-04-13 09:54:07;2026-04-13 09:54:07;'phishing','フィッシング詐欺','1','マネックス証券cc';52
+url;https://resumekeeper.com/u/agtgnoanyt;2026-04-13 07:59:43;2026-04-13 07:59:43;'phishing','フィッシング詐欺','Applecc','1';52
+url;https://sxtnedbpfqvv.top/jpp;2026-04-13 07:58:51;2026-04-13 07:58:51;'phishing','フィッシング詐欺','1','Apple194';52
+url;https://resumekeeper.com/u/ovwoygescp;2026-04-13 07:58:51;2026-04-13 07:58:51;'phishing','フィッシング詐欺','1','Apple194';52
+sha256;72d599ced8b50dd5eae0788e43a68e6d0b1f41fe7352ead93135f64b2a789709;2026-04-18 08:00:00;2026-04-18 08:00:00;'TROJAN';80
+sha256;fe4df230c3150493480c4bce739ef4c7c1c8aaa35b3f09ccf1b5aacad49aab05;2026-04-18 08:00:00;2026-04-18 08:00:00;'TROJAN_DOWNLOADER';80
+sha256;cc105f72dca0ce157c3f5cffeaf4b5cf981fccf71dee6c469127649768ffeca2;2026-04-18 08:00:00;2026-04-18 08:00:00;'TROJAN','WORM','TROJAN_DROPPER';80
+sha256;fb2e27e8d47838721bba3a9e51c7ead6e214ef54ca80665b3165ec3a9f1ef201;2026-04-18 04:00:00;2026-04-18 07:00:00;'TROJAN','WORM','TROJAN_DROPPER','TROJAN_PROXY';80
+sha256;a4bbc410fc3752c682361c797e006a1a35ee6feb0f8a1d6a9d451482e1346c51;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN_DROPPER';80
+sha256;83738b72e30428025b3d3380f49ab28cdaab11f86e94a182dd6461ab8eac9bc5;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN_DOWNLOADER','TROJAN','WORM','TROJAN_DROPPER','TROJAN_PROXY';80
+sha256;e62663f3502d678ec6cbfab2de1cb291df766f1ed05e6d19ff962c3b9362aa07;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN';80
+sha256;860eab8489d0139539933d10fa8aaded473de4fcf8a61fda1fb6713913763f59;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN';80
+sha256;86abf18b8053bef1a738c29eec8ae6fed8c4df17da87b1bc1fa317bf0240b9ba;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN_DOWNLOADER';80
+sha256;46244e7b99f714ca794fba9b1a27a949db3ec135b82651115cabfa6bdc540b69;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN','WORM';80
+sha256;a79620f0e5ad74df8db5a278e364c7b10ca2b4586f6dbc4d5df49faf4bb8e9fa;2026-04-18 07:00:00;2026-04-18 07:00:00;'BACKDOOR','TROJAN','WORM';80
+sha256;f5a4a397dd69f549bb9fd1b7e2d8123cbc2f02542d54cb584422027fa82d1709;2026-04-18 07:00:00;2026-04-18 07:00:00;'TROJAN','WORM';80
+sha256;0bc30af1a0ca30006e84b1d528dc6ab4548b1f8288ad9ed7a67861e013532545;2026-04-18 07:00:00;2026-04-18 07:00:00;'WORM';80
+sha256;5e5639c19a142a24b70f3ca27b9ab2e07d184d0a5048e803c831ef378389fec6;2026-04-18 07:00:00;2026-04-18 07:00:00;'BACKDOOR','TROJAN','WORM';80
+sha256;0cb1f2b0b7e1c9ba4a101727a202846295a4aaf86ad5f18781d703ac31b40eb9;2026-04-18 07:00:00;2026-04-18 07:00:00;'BACKDOOR';80
